@@ -1,17 +1,23 @@
-# Quartz v5
+# 我的Quartz知识库
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+这是一个使用Quartz静态网站生成器构建的知识库，基于我的Obsidian知识库。
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## 功能特性
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- 基于Markdown的知识库
+- 支持全文搜索
+- 反向链接
+- 图视图
+- 响应式设计
+- 支持多种插件
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 部署
 
-## Sponsors
+使用GitHub Pages部署，通过GitHub Actions自动构建和部署。
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 构建
+
+```bash
+npm install
+npx quartz build
+```
