@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: none
   locale: zh-CN
-  baseUrl: terryhank.github.io/my-wiki
+  baseUrl: /my-wiki/
   ignorePatterns:
     - private
     - templates
