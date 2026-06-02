@@ -55,7 +55,15 @@ jobs:
         run: npx quartz build
 
       - name: Create index.html from 404.html for GitHub Pages SPA fallback
-        run: cp public/404.html public/index.html
+        run: |
+          # Create a proper index.html for root path
+          cat > public/index.html << 'INDEXEOF'
+          <!DOCTYPE html>
+          <html lang="zh" dir="ltr">
+          <head><title>我的知识库 - TerryHank</title><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta http-equiv="refresh" content="0;url=/my-wiki/entities/"/><link rel="icon" href="/my-wiki/favicon.ico"/></head>
+          <body><p>正在跳转到 <a href="/my-wiki/entities/">知识库首页</a>...</p></body>
+          </html>
+          INDEXEOF
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
