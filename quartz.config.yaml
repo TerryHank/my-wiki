@@ -2,7 +2,7 @@
 configuration:
   pageTitle: 我的知识库
   pageTitleSuffix: " - TerryHank"
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: none
