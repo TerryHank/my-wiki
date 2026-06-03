@@ -1,0 +1,39 @@
+---
+type: concept
+title: Comet YOLO Integration
+created: 2026-05-30
+updated: 2026-05-30
+tags: [integration, configuration, mlops]
+related: [comet-ml-platform, ultralytics-yolo, mlops-workflow, offline-logging]
+sources: ["Comet ML 平台.md"]
+---
+# Comet YOLO Integration
+
+The **Comet YOLO Integration** refers to the native mechanism by which Ultralytics YOLO models communicate with the Comet ML platform. This integration automates the logging of the entire training lifecycle, transforming raw training loops into rich, queryable experiments.
+
+## Mechanism
+
+The integration operates via a callback system embedded within the Ultralytics trainer. When the `comet_ml` package is installed and the API key is detected (via environment variable or `login()`), the trainer automatically hooks into:
+1.  **Initialization**: Logs model architecture, hyperparameters, and dataset metadata.
+2.  **Training Steps**: Records batch-level loss and learning rate schedules.
+3.  **Epoch Ends**: Aggregates validation metrics (mAP, precision, recall) and generates visualizations.
+4.  **System Monitoring**: Polls hardware sensors for GPU/CPU utilization and memory usage.
+
+## Configuration Patterns
+
+Customization is achieved primarily through environment variables, allowing for declarative configuration without code changes:
+
+*   **Verbosity Control**: `COMET_MAX_IMAGE_PREDICTIONS` limits the number of validation images logged to prevent storage bloat.
+*   **Frequency Tuning**: `COMET_EVAL_BATCH_LOGGING_INTERVAL` reduces I/O overhead by logging predictions only every N batches.
+*   **Offline Operation**: Setting `COMET_MODE=offline` directs logs to a local directory, decoupling the training process from network availability. This is critical for [[embedded-device-workflow]] or secure lab environments.
+
+## Visual Diagnostics
+
+A key advantage of this integration is the automatic generation of diagnostic artifacts:
+*   **Interactive Confusion Matrix**: Allows users to drill down into specific class misclassifications.
+*   **Prediction Overlays**: Displays bounding boxes or segmentation masks on validation images directly in the browser.
+*   **Metric Panels**: Time-series plots of loss and accuracy for trend analysis.
+
+## Strategic Value
+
+This integration supports the project's goal of **data-driven decision making** by reducing the latency between training completion and insight generation. It complements the [[test-driven-development]] approach by providing immediate feedback on whether model changes yield improvements.
