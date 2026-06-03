@@ -1,0 +1,6192 @@
+[
+  {
+    "id": "ingest-1780508791029-3ib929",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/AWS 快速入门教程.md",
+    "folderContext": "",
+    "status": "processing",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-mjfonn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Alienware子服务器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-swtxus",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Argoverse 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-umfsi2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Axelera 平台.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-5fofri",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Azure ML 快速入门.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-urte1g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Azure ML 快速入门教程.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-gj0u6x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/BIM算量系统.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-uljiwm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/BOT 排序跟踪.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-uotqnr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/CIFAR-10 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-d2c86g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/CIFAR-100 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-zikq11",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-0buy1x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO 数据集_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-5m6139",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO 数据集_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ilm39o",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO12 格式.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-b34em2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO128 分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-s2xyj0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO128 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-d1ucr6",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-90xnfa",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 多光谱.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-tsbb8r",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 姿态.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-7vimjx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-6pm4w3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 灰度.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ocj6sd",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/CPU-GPU-NPU性能对比.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-qvkm6f",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Caltech101 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ruuw9c",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Caltech256 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-03cyb1",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ClearML 平台.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-10tk9h",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ClearML 日志集成.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-gxyeas",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Cloudflared隧道.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-bsbxxh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Codex-MCP工具.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-nb9046",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Codex兼容层.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-1zwwrb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Codex杂项任务.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-rxjdy6",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Codex网络调试经验.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-gugwug",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Comet ML 平台.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ieb9dr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Comet 日志集成.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ni67jp",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Conda 快速入门.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-3rcyus",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Conda-Mamba环境管理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-xiv30n",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Core ML 框架.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-7982d3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/DOTA-v2 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-0cg3cb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/DOTA8 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-n8jvn4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/DeepSeek延迟问题.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-mz6iii",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/DeepStream NVIDIA Jetson_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-8ub8qm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Docker 快速入门.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-c2bi0e",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Docker 支持.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-81fdou",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Docker 镜像快速入门教程.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-2ynuy4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Docker健康检查踩坑.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-0ewoeu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Docker网络隔离.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-l8g532",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/EasyTier组网.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-3w3f8j",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ExecutorCH.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-lc5kfa",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Fashion-MNIST 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-64k5b7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Foxglove可视化.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-qh85l8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/GMC 跟踪.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-yso6rt",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Gazebo仿真环境.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-6w8u9y",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Git.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-0aess9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/GitHub代理加速.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-rzch9s",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Google Cloud 快速入门教程.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-owo5eb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Google Colab_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-lw33m7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Gradio.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-z1y30e",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Hermes 智能体.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-0w470d",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Hermes-Claude配置.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-4g3qe0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Hermes-WebUI部署.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-okeq8x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Hermes智能体.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-8mufok",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Hermes配套工具.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-mjhg6m",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Hermes配置详解.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-5wmccc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/IBM WatsonX_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-1u7k2t",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ImageNet.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-smw227",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ImageNet10.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-6phe2i",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ImageNette.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-eqydia",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ImageWoof.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-j9aads",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Intel NPU.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-8wrr21",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/JupyterLab.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-mtfhx9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/K 折交叉验证.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791030-hu1lx0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/KITTI 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791030,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-m86nwj",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Kaggle.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-dkryt5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Kiro网关.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-crs305",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LLM-Wiki模式.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-wcf1o7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LVIS 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-l0zdpd",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LaTeX.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-rfu46i",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -3D 人体测量 SMPL.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-rjwggy",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -3D 人体测量 SMPL_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-xeiqkv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -Alienware 子服务器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-rlt8sy",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -Alienware 子服务器_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-xoh6lc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -BIM 工程量.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-xbc5jx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -BIM 工程量_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-9bg1a6",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -BIM 工程量计算.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-9bz6q4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -Gazebo Harmonic Windows.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-ndbyo8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -Gazebo Harmonic Windows_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-7aa7fa",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -WSL2 管理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-abt3bv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -本地 LLM 部署.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-x4fudm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -本地 LLM 部署_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-ruq0iu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -身体测量机器学习.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-hfngt3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -身体测量机器学习_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-2xl92j",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -身体测量流水线.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791031-zizmet",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能 -身体测量流水线_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791031,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-d3ht3b",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-BIM 工程量计算.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-vcw0tx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-Ollama Qwen36 部署.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-cr9hi0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-Ollama Qwen36 部署_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-55wrip",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-ROS2 差速驱动.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-if0z25",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-ROS2 差速驱动_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-j36wg9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-ROS2 控制差速驱动.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-gaxqnm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-ROS2 控制差速驱动_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-bjbz8a",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-Ubuntu 20.04 ML 部署.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-2npvcf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-Ubuntu 20.04 ML 部署_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-2tzm1i",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC 技能-WSL2 管理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-b5p0ql",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-BIM算量项目.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-od55fm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-BIM算量项目_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-kyeo6g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-Codex配置.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-1pynlm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-Hermes配置与会话概览.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791032-7tt3dj",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-Hermes配置与会话概览_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791032,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-f522oc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-Qwen36-Unsloth部署.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-fbi66o",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-Qwen36-Unsloth部署_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-yfdzmr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-ROS2机器人项目.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-ydra5m",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-ROS2机器人项目_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-k006d5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-S13狮子音频驱动.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-ukggx6",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-S13狮子音频驱动_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-e2qxx8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-S14机器人URDF交付.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-10o9wk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-S14机器人URDF交付_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-shqwbh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-模型部署调试经验.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-stfjfr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-模型部署调试经验_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-29o36z",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-视频SMPL围度工作流.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-fk16oy",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-视频SMPL围度工作流_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-2l0rcj",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-量体研究项目.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791033-tl3z4b",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-量体研究项目_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791033,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-2xk7ri",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-量体视频SMPL围度会话包.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-kxmp2e",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC-量体视频SMPL围度会话包_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-bjlcg4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC/LabPC-BIM算量项目.md",
+    "folderContext": "LabPC",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-u9xpq2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC/LabPC-Hermes配置与会话概览.md",
+    "folderContext": "LabPC",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-19culo",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC/LabPC-ROS2机器人项目.md",
+    "folderContext": "LabPC",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-d9tnzn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC/LabPC-模型部署调试经验.md",
+    "folderContext": "LabPC",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-uluwwx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC/LabPC-量体研究项目.md",
+    "folderContext": "LabPC",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-2xd3jn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/LabPC工作站.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-o8565f",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/MLflow.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-2f8374",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/MNIST 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-dg7vlk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/MNN.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-hc2lse",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/MaskFormer 分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791034-kj6jei",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Mermaid 图表.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791034,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-w1rkke",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/NCNN.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-kaa5xc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/NPU推理加速.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-heo114",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/NVIDIA DGX Spark_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-maly9i",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/NVIDIA Jetson_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-fza11h",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Neptune.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-3634fi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Neural Magic 剪枝量化.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-r4ainx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Neural Magic_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-ios65j",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ONNX.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-a6pobp",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Objects365 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-yxffuq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Obsidian 兼容性.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-uinrwb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Obsidian知识管理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-u1we8g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Ollama本地部署.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791035-7kz65p",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Open Images V7_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791035,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-4ljzqr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/OpenClaw 零令牌说明.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-mn36w5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/OpenClaw 零令牌说明_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-5spb4x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/OpenClaw零令牌.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-vuzini",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/OpenVINO.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-qvjebk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/OxHugo 兼容性.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-l22f1e",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/P1000实验室.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-ig63gn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/PaddlePaddle.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-f6ngyi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Paperspace.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-2tkqhi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/PyTorch Hub 模型加载.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791036-j4h46t",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/PyTorch 工具.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791036,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-n4xubh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Python.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-ti44gm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Qmini训练监视.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-rcvvtc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Quartz 静态站点生成器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-2olyai",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ROS 快速入门.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-koz2lq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ROS2机器人控制.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-1evkow",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ROS2绑扎机器人.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-4ony2p",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/RSS 订阅.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-oangu4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/RT-DETR_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-7a5p5b",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Ray Tune.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791037-1talcd",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Ray Tune_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791037,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-m2u9pg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Roam Research 兼容性.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-r8z8hl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Roboflow.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-d8biwr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Roboflow100_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-8irq51",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SAHI 平铺推理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-3egau1",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SAM 2_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-pjwhtc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SAM 3_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-3ue4sh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SAM 自动标注.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-xrk2ck",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SAM.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-7tmvln",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SAM3 图像.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-06cgfi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SKU-110K 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791038-z2rql8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SLAM自主导航.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791038,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-2cfldy",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SSH CVA 诊断.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-xeyjcw",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/SSH隧道.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-5n5oi9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Streamlit 实时推理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-btjh5l",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Streamlit 推理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-sq0o3v",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TAL 分配.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-98c62i",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TT100K 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-kk5528",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TensorBoard.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-3ua1s5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TensorFlow GraphDef_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-c1v9fi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TensorFlow Lite_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-jfa1yv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TensorFlow SavedModel_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791039-x500ij",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TensorFlow.js_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791039,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-snepx7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TensorFlow.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-en8zsv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TensorRT.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-7ryi45",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/TorchScript.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-h8r3i2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Transformer.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-xa3ljb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Transformer_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-ovhcon",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Triton 推理服务器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-0njm2e",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Triton.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-qp2xr1",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/VESC电机驱动.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-ss5gyl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/VOC 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-b0plqd",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/VPS服务器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791040-fiovhk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/VS Code_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791040,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-kf8qwv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/VZense-ToF相机.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-jrk17w",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Vertex AI Docker 部署.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-ssbag2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ViT-Det_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-3sqrfg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Virtual用户.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-356n3m",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Virtual用户_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-8ibfpc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/VisDrone 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-2qkub5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/WSL2-Windows集成.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-0hsnf5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Weights & Biases.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791041-w2a61d",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Weights & Biases_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791041,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-2yaq0w",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Windows自启动调试.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-njtdry",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 分割性能.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-e8stp4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 分类性能.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-8sr1pf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 姿态性能.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-wbmilf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 常见问题.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-uy1bd8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 性能指标.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-xkkgcz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 数据增强.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-jw0lj0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 旋转框性能.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791042-ygm9s8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 检测性能.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791042,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-j4qmbu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO 线程安全推理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-q6t8kf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO-E_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-rnqwp8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO-NAS.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-awi1zf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO-World.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-bsapxw",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO11.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-yhiwk7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO12.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-52a8co",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO26.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-l735k3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO26车牌检测说明.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791043-0nr68i",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO26车牌检测说明_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791043,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791044-sumfwk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLOv10.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791044,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791044-w6i0a8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLOv3.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791044,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791044-08gjmk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLOv4.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791044,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791044-m3wh3c",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLOv5.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791044,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791044-1ie6f5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLOv6.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791044,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791044-k3y0u5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLOv7.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791044,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791044-7qtdl2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLOv8.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791044,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791044-aa98ou",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLOv9.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791044,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791045-l6cp29",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/YOLO车牌检测.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791045,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791045-52jiue",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/cm.inspiro.top域名.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791045,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791045-d241bb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-2、机器人信息发布.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791045,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791045-bx58me",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-2、机器人信息发布_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791045,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791045-grjobi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-2、机器人键盘控制.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791045,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791045-dtmmqx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-2、机器人键盘控制_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791045,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791045-5dvkg6",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-3、机器人状态估计.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791045,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791045-u8kx01",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-3、机器人状态估计_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791045,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791046-ok6p1h",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-5、机器人校准.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791046,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791046-6u2pck",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-5、机器人校准_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791046,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791046-8rvh1t",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-6、URDF模型.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791046,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791046-3zsjxu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-6、URDF模型_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791046,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791046-qz753e",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-使用教程.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791046,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791046-rc4ub7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-使用教程_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791046,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791046-p87o0u",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-绑定设备ID.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791046,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791046-5ro9pg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ros2-绑定设备ID_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791046,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-t4mldt",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/xView 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-oalltm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/μ 子.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-owq2a5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/上传.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-ilva9k",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/下载.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-igciyi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/中央处理器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-fmuf8m",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/中心.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-m64sxs",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/事件.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-nhtvh9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/云端训练.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791047-xxwggw",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/亚马逊 SageMaker.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791047,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791048-2h8mba",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/人体量体模型.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791048,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791048-v3wsgd",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/仪表盘.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791048,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791048-12h0ft",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/任务.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791048,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791048-sdu6q3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/优化 OpenVINO 延迟与吞吐模式.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791048,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791048-58nveo",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/会话.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791048,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791048-l3crhn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/停车管理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791048,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791048-7lldkp",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/停车管理_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791048,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791048-n9ynvn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/健身监控.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791048,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791049-76b14i",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/像素豆绘项目.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791049,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791049-tvczj0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/免费 LLM API.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791049,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791049-ol8ml6",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/全文搜索.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791049,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791049-ks23ex",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/全球小麦 2020.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791049,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791049-9enrwm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/六足机器人 V2 说明.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791049,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791049-jo15z2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/六足机器人 V2 说明_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791049,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791049-1w5cvo",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/六足机器人.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791049,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791049-zuyb4a",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/内容创作.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791049,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-9om3pf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/冻结层迁移学习.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-insw8j",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/几何编码器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-p9ny6z",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/分割 DOTA.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-rszroo",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-361bvr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/分割_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-714uu7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/分布式.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-189b2s",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/分析.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-1xq0vu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/分类.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791050-3kdifu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/分词器 VE.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791050,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791051-ldcnhi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/创建.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791051,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791051-zpcwjm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/创建插件.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791051,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791051-vfvot4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/创建组件.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791051,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791051-kc6wz9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/初始化.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791051,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791051-zv3gcb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/初始化_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791051,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791051-39c4kx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/初始化_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791051,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791051-8nkxvp",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/初始化_3.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791051,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791051-87buzc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/初始化_4.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791051,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791052-ia2mfm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/初始化_5.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791052,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791052-y03kyy",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/加载器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791052,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791052-bcfel4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/包裹分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791052,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791052-20pkrs",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/匹配.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791052,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791052-fj91k7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/区块.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791052,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791052-n77bvx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/区块_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791052,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791052-aemel2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/区域计数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791052,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791052-vunu5s",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/区域计数器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791052,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791053-moky7p",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/医疗药片.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791053,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791053-a214a9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/升级.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791053,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791053-s7xlam",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/升级指南.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791053,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791053-fsz5av",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/单页应用路由.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791053,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791053-rv6jt0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/卡尔曼滤波.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791053,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791053-opdlwe",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/即将上线模板.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791053,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791053-6ssqzz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/卷积.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791053,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791054-1g8r2z",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/反向链接.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791054,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791054-2hjb2l",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/反重力代理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791054,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791054-p62asg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/反重力代理使用.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791054,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791054-krkoqk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/反重力代理使用_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791054,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791054-3kvoqi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/可视化参数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791054,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791054-4rpcwn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/同步.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791054,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791054-geq6fw",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/命令行界面.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791054,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791055-62kwa1",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/回调函数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791055,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791055-0hof01",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/国际化.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791055,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791055-w2lrq8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/图像增强库.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791055,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791055-qxrv0s",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/图谱视图.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791055,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791055-nkbgr2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/在终端查看结果.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791055,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791055-b2v9am",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/垃圾.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791055,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791055-rdb105",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/基准测试.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791055,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791056-61vf4l",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/基准测试集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791056,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791056-kkrvx7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/基础.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791056,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791057-k797f4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/基础_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791057,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-4tfyap",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/基础_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-0548xz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/基础跟踪.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-is0e0o",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/增强.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-gqinxk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/增强参数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-agq98u",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/多 GPU 训练.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-uvtmse",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/多端同步配置.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-vamabi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/头部网络.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791059-vt0krz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/姿态.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791059,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791059-p9zbtz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/字节跟踪器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791059,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791059-pp7om2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/安全.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791059,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791059-eutvoh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/安全报警.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791059,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791059-kpwkqh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/安全报警系统.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791059,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791059-35r89k",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/安装.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791059,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791059-6ll4m5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/定义项目目标.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791059,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791060-1z9qcw",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/实例.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791060,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791060-nkw53e",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/实例分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791060,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791060-r05ll2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/实例分割与跟踪.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791060,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791060-gf8y2m",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/实验表单 4174 快照.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791060,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791060-y802f4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/实验表单轴交换快照.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791060,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791060-qgblot",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/家居物品 3K.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791060,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791060-krpjt4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/对象模糊.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791060,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791061-u03789",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/对象模糊器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791061,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791061-74fl69",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/对象裁剪.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791061,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791061-7wxeo5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/对象裁剪器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791061,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791061-s6r68y",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/对象计数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791061,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791061-0yfh0q",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/对象计数器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791061,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791062-ucvalg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/导出.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791062,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791062-im8f5r",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/导出参数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791062,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791062-4xbuib",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/导出器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791062,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791062-fxersx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/导出表.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791062,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791062-59ky9u",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/展示.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791062,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791062-6i9641",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/工具.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791062,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791063-kszpwz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/工具_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791063,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791063-nx17ud",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/工具_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791063,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791063-tm4vy7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/工具_3.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791063,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791063-xu4gpk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/工具_4.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791063,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791063-cycvxq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/布局.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791063,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791063-ie9rw4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/布局组件.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791063,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791063-rggg6f",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/常见问题.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791063,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791064-9optqe",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/平台.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791064,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791064-5e0iiw",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/应用程序接口.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791064,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791064-g4pmpf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/建筑施工防护装备.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791064,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791064-y3bwo7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/引擎.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791064,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791064-1lui80",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/引擎_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791064,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791064-6vpo3f",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/引用.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791064,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791064-5g54wo",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/张望GPU服务器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791064,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791065-rndmym",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/微小组编码器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791065,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791065-6ro0us",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/快速 SAM.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791065,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791065-282hpl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/快速入门.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791065,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791065-88dgny",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/快速入门_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791065,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791065-944xdj",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/快速入门教程.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791065,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791065-1q3vkv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/总索引.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791065,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791066-dh304j",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/恢复.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791066,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791066-r9gkzq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/悬停预览.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791066,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791066-epsb72",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/手部关键点.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791066,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791066-tvyrtl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/托管.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791066,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791066-snqhsk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/技术图谱技能.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791066,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791066-vmqiaz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/持续集成.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791066,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791066-ea4nek",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/指标.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791066,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791067-94rzxh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/损失函数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791067,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791067-3e6l91",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/损失函数_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791067,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791067-mrto5g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/探索.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791067,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791067-omi2wh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/推理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791067,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791067-t52k9z",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/插件.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791067,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791067-yr28zs",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/操作.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791067,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791067-7g50r1",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/操作_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791067,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791068-y0g4v3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/故障排除.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791068,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791068-gnmvuy",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/数据收集与标注.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791068,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791068-vihdg9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/数据版本控制.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791068,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791068-f1to75",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791068,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791068-sx45z7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/数据集_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791068,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791068-dc0ggx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文件.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791068,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791069-osg0dv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文件夹和标签列表.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791069,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791069-1jyw53",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文本模型.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791069,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791069-70nckg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文本用户界面.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791069,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791069-jphdrh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文本编码器 VE.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791069,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791069-7w342s",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/AI陪伴机器人需求文档.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791069,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791069-9n5oio",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/LabPC-Qwen36-Unsloth部署.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791069,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791070-h7s18j",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/LabPC-S13狮子音频驱动.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791070,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791070-axu0gi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/LabPC-S14机器人URDF交付.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791070,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791070-shhqlg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/LabPC-视频SMPL围度工作流.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791070,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791070-xspu91",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/LabPC-量体视频SMPL围度会话包.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791070,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791070-kqotg2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/YOLO26车牌检测说明.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791070,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791071-y0g3z2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/antigravity-proxy-usage.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791071,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791071-wtl72l",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/hexapod-v2-readme.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791071,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791071-ans9n5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-3d-body-measurement-smpl.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791071,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791071-plc97b",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-bim-quantity-takeoff-skill.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791071,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791071-delotr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-bim-quantity-takeoff.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791071,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791071-sbqs43",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-body-measurement-ml.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791071,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791072-bumned",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-body-measurement-pipeline.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791072,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791072-jckxm4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-gazebo-harmonic-windows.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791072,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791072-856w5w",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-local-llm-deployment.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791072,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791072-1jtqve",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-ollama-qwen36-deploy.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791072,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791072-sxjn9e",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-ros2-control-diff-drive.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791072,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791072-gbd4i5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-ros2-diff-drive.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791072,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791073-yb05kn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-sub-server-alienware.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791073,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791073-y7el2k",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-ubuntu-2004-ml-deploy.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791073,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791073-ndj259",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/labpc-skill-wsl2-management.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791073,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791073-q0ynan",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/openclaw-zero-token-readme.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791073,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791073-spoxbx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/ros2-2、机器人信息发布.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791073,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791073-7niukh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/ros2-2、机器人键盘控制.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791073,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791074-6f0hmn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/ros2-3、机器人状态估计.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791074,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791074-tf2ln9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/ros2-5、机器人校准.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791074,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791074-hzrnym",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/ros2-6、URDF模型.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791074,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791074-zyyft7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/ros2-使用教程.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791074,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791074-kmhope",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/ros2-绑定设备ID.md",
+    "folderContext": "文章",
+    "status": "pending",
+    "addedAt": 1780508791074,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791074-euf7ru",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_en_.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791074,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791075-uss3cn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_en_ToFBasicPrinciple_3DTecClassification.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791075,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791075-n9lq79",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_en_ToFBasicPrinciple_3DTecIntroduction.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791075,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791075-8w6ubl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_zh-cn_.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791075,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791075-76eie5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_zh-cn_ProductIntroduction_DS86,87.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791075,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791075-91cy1o",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_zh-cn_ProductIntroduction_NYX650,660.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791075,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791076-5ygfr5",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_zh-cn_ToFBasicPrinciple_3DTecClassification.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791076,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791076-2788rd",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_zh-cn_ToFBasicPrinciple_3DTecIntroduction.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791076,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791076-dk2mme",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_zh-cn_ToFBasicPrinciple_ToFComposition.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791076,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791076-f2d9f7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_zh-cn_ToFBasicPrinciple_ToFFeatures.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791076,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791076-585ruz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/文章/vzense-tof/wiki.vzense.com_#_zh-cn_ToFBasicPrinciple_ToFPrinciple.md",
+    "folderContext": "文章 > vzense-tof",
+    "status": "pending",
+    "addedAt": 1780508791076,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791077-j4v4dy",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/新功能.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791077,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791077-pp1bhi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/旋转框检测.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791077,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791077-8rzg3h",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/日志.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791077,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791077-a9757w",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/日志记录器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791077,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791077-2bn6nr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/最佳训练效果技巧.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791077,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791078-ut14if",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/最小可复现示例.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791078,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791078-5s7ayp",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/最近笔记.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791078,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791078-iahynu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/服务机器人小车.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791078,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791078-q5te07",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/本地LLM部署经验.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791078,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791078-z0wguj",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/构建 SAM3.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791078,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791079-d27q3k",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/构建.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791079,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791079-vwuvf0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/构建_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791079,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791079-zxf2q4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/构建_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791079,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791079-hcmik4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/架构.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791079,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791079-whdz8k",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/架构说明.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791079,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791079-fuyzlp",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/标注.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791079,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791080-ea7q7x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/标注工具.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791080,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791080-jrdanq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/标注框.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791080,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791080-0b3qzw",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/树莓派.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791080,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791080-xhka40",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/树莓派上的 Coral Edge TPU.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791080,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791080-utnw7q",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/检查项.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791080,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791081-il3ox9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/检测.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791081,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791081-4ov1iv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型 YAML 配置.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791081,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791081-3yiutv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791081,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791081-phed3s",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791081,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791081-qc89oi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791081,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791082-vdzwbc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型_3.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791082,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791082-0gzzmf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型_4.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791082,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791082-urdlfe",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型_5.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791082,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791082-b68k2g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型_6.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791082,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791082-ca28z2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型剪枝与稀疏性.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791082,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791083-7oyxv8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型导出.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791083,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791083-2fiha0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型杂项.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791083,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791083-rgf876",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型测试.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791083,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791083-92odsv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型监控与维护.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791083,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791083-pmoh9g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型训练技巧.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791083,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791084-sychp3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型评估洞察.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791084,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791084-1gz3d7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型部署实践.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791084,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791084-gixmm3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型部署选项.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791084,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791084-zqpzk2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/模型集成.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791084,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791084-8k5eov",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/汽车零部件分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791084,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791085-jtl3ia",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/活动.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791085,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791085-9ov7co",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/测试时增强.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791085,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791085-gpjr8w",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/浏览器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791085,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791085-r4ixpa",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/深色模式.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791085,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791085-g65aws",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/激活函数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791085,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791086-zuj129",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/热力图.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791086,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791086-rsv0qm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/热力图_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791086,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791086-8egc43",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/狗姿态估计.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791086,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791086-r3szme",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/环境健康安全.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791086,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791087-frb7ki",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/理念.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791087,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791087-obzb9t",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/瑞芯微 RKNN.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791087,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791087-euw3fc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/生成 COCO12 格式.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791087,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791087-l6lyiv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/用户偏好.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791087,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791087-zftvdm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/电动车零部件.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791087,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791088-435oym",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/画布.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791088,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791088-fh1a4j",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/监控.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791088,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791088-l9htb9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/目录.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791088,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791088-wn9d5r",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/相似度搜索.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791088,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791089-vfca0z",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/相似度搜索_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791089,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791089-zyqwfl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/矽递可重构相机.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791089,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791089-52o3n0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/社交图片.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791089,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791089-d1qadg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/社区.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791089,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791089-tr2e5m",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/私有页面.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791089,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791090-fzg75r",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/移动端 SAM.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791090,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791090-kbqxei",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/端点.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791090,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791090-d5vhq7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/签名.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791090,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791090-dj69yf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/简单工具.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791090,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791090-y473i4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/索尼 IMX 传感器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791090,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791091-gjo1cm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/索尼 IMX500.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791091,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791091-9i39hr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/索引.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791091,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791091-blmgi7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/结果.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791091,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791091-a3h156",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/绘图.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791091,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791091-2pxy6w",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维基链接.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791091,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791092-wbbeoc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791092,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791092-mn62cd",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ProductIntroduction_DS86,87.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791092,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791092-3u317u",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ProductIntroduction_DS86,87_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791092,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791092-k2kosb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ProductIntroduction_NYX650,660.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791092,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791093-2hp9le",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ProductIntroduction_NYX650,660_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791093,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791093-t3nyd8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_3DTecClassification.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791093,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791093-0xg8jg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_3DTecClassification_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791093,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791093-jkpc7x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_3DTecIntroduction.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791093,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791094-bvwjpt",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_3DTecIntroduction_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791094,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791094-ipw2dn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_ToFComposition.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791094,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791094-sqmpmt",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_ToFComposition_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791094,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791094-dh5mxq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_ToFFeatures.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791094,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791095-qwsmxj",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_ToFFeatures_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791095,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791095-7viydc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_ToFPrinciple.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791095,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791095-xpt25f",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文ToFBasicPrinciple_ToFPrinciple_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791095,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791095-1rs5zo",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 中文_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791095,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791096-v29zo1",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 英文.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791096,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791096-bkel6c",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 英文ToFBasicPrinciple_3DTecClassification.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791096,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791096-41ugxj",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 英文ToFBasicPrinciple_3DTecClassification_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791096,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791097-n2rs1m",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 英文ToFBasicPrinciple_3DTecIntroduction.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791097,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791097-k2i3b4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 英文ToFBasicPrinciple_3DTecIntroduction_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791097,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791097-6n16rn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/维森百科 - 英文_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791097,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791097-oh9izg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/编码器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791097,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791098-r2wyb9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/编码器_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791098,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791098-d0xu3s",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/老虎姿态.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791098,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791098-259xf7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/脑肿瘤.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791098,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791098-0fdnzq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/自动后端.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791098,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791099-z3d7wi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/自动批处理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791099,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791099-z9lw8c",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/自动掩码生成器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791099,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791099-xoqshl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/自动设备.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791099,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791099-43fkob",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/自定义训练器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791099,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791100-ftd3ph",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/行为准则.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791100,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791100-2a3f94",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/行为准则_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791100,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791100-xgdifl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/补丁.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791100,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791100-dl1vrg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/裂缝分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791100,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791101-7t7jsq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/规范.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791101,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791101-ytezqa",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/视觉眼.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791101,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791101-vegm7c",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/视觉眼_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791101,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791101-g9ir5v",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/视觉语言组合器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791101,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791102-9np0kk",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/解决方案.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791102,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791102-tqe7mm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/解决方案参数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791102,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791102-j4uzlv",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/解码器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791102,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791102-9vqohe",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/解码器_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791102,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791103-2mafrh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/计算机视觉项目步骤.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791103,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791103-bg5ljt",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/计费.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791103,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791103-lt1lz3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/认证.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791103,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791104-24ksvu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/训练.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791104,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791104-um5xlf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/训练世界.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791104,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791104-ehgl76",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/训练分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791104,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791105-q5z757",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/训练参数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791105,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791105-twej5a",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/训练器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791105,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791105-0mwkt9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/训练自定义数据.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791105,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791105-0hlpz0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/记忆注意力.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791105,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791106-wra4lt",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/设置.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791106,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791106-gv1rg4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/评论.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791106,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791107-vjilyb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/语法高亮.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791107,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791107-fw2x0p",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/说明文档.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791107,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791107-sa89tx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/说明文档_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791107,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791108-bqr2cl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/调优器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791108,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791108-vc6jfl",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/调优器_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791108,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791108-88v65c",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/调试经验总结.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791108,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791108-x8apz4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/贡献指南.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791108,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791108-vgymey",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/贡献指南_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791108,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791109-ztye68",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/贡献指南_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791109,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791109-n8j02x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/贡献者许可协议.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791109,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791109-mul1ek",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/超参数调优.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791109,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791109-ybyn1z",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/超参数进化.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791109,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791109-vccpv7",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/超梦API代理平台.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791109,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791110-i8b9w9",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/距离计算.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791110,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791110-jtxost",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/距离计算_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791110,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791110-vic3yg",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/跟踪.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791110,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791110-gyami8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/跟踪区域.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791110,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791110-2lgn3w",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/跟踪参数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791110,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791110-oiob8p",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/路径.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791110,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791110-6rbfdo",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/车牌识别说明.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791110,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791111-95ezv8",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/转换器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791111,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791111-yw9kjc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/边缘 TPU.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791111,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791111-czgnsc",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/迁移指南.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791111,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791111-n97vqh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/进度条.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791111,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791112-ir5cqb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/远程机器清单.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791112,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791112-t4ab49",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/速度估计.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791112,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791112-ws2kgu",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/速度估计_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791112,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791112-6fh749",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/配置.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791112,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791113-tfpggp",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/配置文件.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791113,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791113-4q8j53",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/配置说明.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791113,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791113-svgob4",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/错误.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791113,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791113-pqofx0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/阅读模式.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791113,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791113-axpe4h",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/队列管理.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791113,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791113-jepapb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/队列管理_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791113,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791113-hdvt0o",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/隐私.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791113,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791114-jx88ik",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/隔离分割对象.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791114,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791114-4zkmi1",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/非极大值抑制.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791114,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791114-e79g6v",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/非洲野生动物.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791114,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791115-b87b8w",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/面包屑导航.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791115,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791115-3uo837",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/项目.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791115,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791115-c7ztv3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/预处理标注数据.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791115,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791115-9hfmaf",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/预测.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791115,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791116-0a4nsq",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/预测参数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791116,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791116-ftsfji",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/预测器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791116,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791116-3dw63v",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/颈部网络.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791116,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791117-sdqp3d",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/验证.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791117,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791117-wivf5y",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/验证参数.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791117,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791117-9xtcgi",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/验证器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791117,
+    "error": null,
+    "retryCount": 0
+  }
+]

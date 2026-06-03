@@ -1,0 +1,113 @@
+{
+  "entries": {
+    "2026-04-03 验收表单实现.md": {
+      "hash": "186aa6a616b2261c13011ced4b736138dabcaa90382ea587368a7f489de1f392",
+      "timestamp": 1780509117962,
+      "filesWritten": [
+        "wiki/sources/2026-04-03 验收表单实现.md",
+        "wiki/concepts/test-driven-development.md",
+        "wiki/concepts/grid-mapping.md",
+        "wiki/concepts/optimistic-update.md",
+        "wiki/entities/vitepress.md",
+        "wiki/entities/sqlite.md",
+        "wiki/entities/acceptance-form-system.md",
+        "wiki/index.md",
+        "wiki/overview.md"
+      ]
+    },
+    "2026-04-03 验收表单设计.md": {
+      "hash": "b7afa72b0dab81ab837f5a8a9dea81d013f3f90bd415809fcce19d3ce2f820bd",
+      "timestamp": 1780509308414,
+      "filesWritten": [
+        "wiki/sources/2026-04-03 验收表单设计.md"
+      ]
+    },
+    "2026-04-04 矩阵工作台实现.md": {
+      "hash": "0491a989c5310a502f77f6543e18b7fd2edee9826736bf3a6d076d2949f614a7",
+      "timestamp": 1780509574656,
+      "filesWritten": [
+        "wiki/sources/2026-04-04 矩阵工作台实现.md",
+        "wiki/concepts/snake-mapping-algorithm.md",
+        "wiki/concepts/sparse-record-pattern.md",
+        "wiki/entities/acceptance-workbench-ui.md",
+        "wiki/index.md",
+        "wiki/overview.md",
+        "wiki/log.md"
+      ]
+    },
+    "2026-04-17 ROS 验收同步实现.md": {
+      "hash": "3b84e6e308e014895cc50ee5266e04c4e2da51381c2f83016819e17ce22493bf",
+      "timestamp": 1780509698254,
+      "filesWritten": [
+        "wiki/sources/2026-04-17 ROS 验收同步实现.md"
+      ]
+    },
+    "AI 健身房.md": {
+      "hash": "4dba5fce0f380aca2f21d4eea977dae9427ded90d5233e83847b7dc00cbcb104",
+      "timestamp": 1780509890349,
+      "filesWritten": [
+        "wiki/sources/AI 健身房.md",
+        "wiki/entities/ultralytics-yolo.md",
+        "wiki/entities/ai-gym-module.md",
+        "wiki/concepts/pose-estimation.md",
+        "wiki/concepts/real-time-pose-estimation.md",
+        "wiki/concepts/gym-step-counting.md",
+        "wiki/index.md",
+        "wiki/overview.md"
+      ]
+    },
+    "AI陪伴型机器人.md": {
+      "hash": "a3f15666a941b3438e83782d30f28194dd876f1fd66c491ee62ee0818281d978",
+      "timestamp": 1780510184686,
+      "filesWritten": [
+        "wiki/sources/AI陪伴型机器人.md",
+        "wiki/entities/ai-companion-robot-mvp.md",
+        "wiki/concepts/embedded-device-workflow.md",
+        "wiki/concepts/cloud-voice-architecture.md",
+        "wiki/concepts/expression-state-machine.md",
+        "wiki/concepts/weak-memory-strategy.md",
+        "wiki/index.md",
+        "wiki/overview.md"
+      ]
+    },
+    "AI陪伴机器人.md": {
+      "hash": "eb25dd16bfae1870bc4ce5aa9e48f1205c8afe907e336158a9b280eee919293c",
+      "timestamp": 1780510227979,
+      "filesWritten": [
+        "wiki/sources/AI陪伴机器人.md"
+      ]
+    },
+    "AI陪伴机器人需求文档.md": {
+      "hash": "f0b34c94c98f447407a453240d83dc68396db2de68637984bdd3b167db4694e8",
+      "timestamp": 1780510531380,
+      "filesWritten": [
+        "wiki/sources/AI陪伴机器人需求文档.md"
+      ]
+    },
+    "AI陪伴机器人需求文档_1.md": {
+      "hash": "f0b34c94c98f447407a453240d83dc68396db2de68637984bdd3b167db4694e8",
+      "timestamp": 1780510837681,
+      "filesWritten": [
+        "wiki/sources/AI陪伴机器人需求文档_1.md",
+        "wiki/concepts/minimum-demo-loop.md",
+        "wiki/entities/ai-companion-robot-mvp.md",
+        "wiki/index.md",
+        "wiki/overview.md"
+      ]
+    },
+    "API 密钥.md": {
+      "hash": "38b70feb289695dcf5e82eb7be070bd88ff6a640e7cc90a0d6754db006bf4fc1",
+      "timestamp": 1780511058545,
+      "filesWritten": [
+        "wiki/sources/API 密钥.md",
+        "wiki/entities/ultralytics-api-keys.md",
+        "wiki/concepts/remote-training.md",
+        "wiki/concepts/least-privilege-principle.md",
+        "wiki/concepts/key-rotation.md",
+        "wiki/concepts/one-time-secret-display.md",
+        "wiki/index.md",
+        "wiki/overview.md"
+      ]
+    }
+  }
+}

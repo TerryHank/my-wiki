@@ -1,0 +1,722 @@
+[
+  {
+    "type": "suggestion",
+    "title": "数据备份与并发策略研究",
+    "description": "源文档提到了单机 SQLite 架构在数据备份和并发写入方面的潜在风险，但未提供具体解决方案。建议进一步研究 SQLite 在 Node.js 环境下的最佳备份实践（如 WAL 模式、自动快照）以及处理并发写入锁的策略。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-03 验收表单实现.md",
+    "affectedPages": [
+      "wiki/entities/sqlite.md",
+      "wiki/entities/acceptance-form-system.md"
+    ],
+    "searchQueries": [
+      "Node.js SQLite automatic backup strategy",
+      "SQLite WAL mode concurrent writes performance",
+      "better-sqlite3 transaction locking handling"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3",
+    "resolved": false,
+    "createdAt": 1780509117939
+  },
+  {
+    "type": "suggestion",
+    "title": "VitePress 作为应用壳子的局限性",
+    "description": "源文档指出将 VitePress 用作动态应用容器是一种“非常规”用法。建议深入研究这种模式在路由管理、SEO（如果需要）以及构建产物优化方面的具体局限性和解决方案，以便在未来类似项目中规避风险。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-03 验收表单实现.md",
+    "affectedPages": [
+      "wiki/entities/vitepress.md",
+      "wiki/concepts/vitepress-as-app-shell.md"
+    ],
+    "searchQueries": [
+      "VitePress use as SPA app shell limitations",
+      "VitePress custom theme dynamic content routing",
+      "VitePress vs Vite for internal tools"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4",
+    "resolved": false,
+    "createdAt": 1780509117939
+  },
+  {
+    "type": "suggestion",
+    "title": "SQLite 单机部署的备份与并发策略",
+    "description": "源文档明确指出了单机 SQLite 架构在“数据备份机制”和“并发写入锁”方面的缺失，这是生产环境部署的关键风险点。建议深入研究 Node.js 环境下 SQLite 的自动备份方案（如 WAL 模式配置、定期快照脚本）以及高并发下的锁竞争处理策略，以完善系统可靠性。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-03 验收表单实现.md",
+    "affectedPages": [
+      "wiki/entities/sqlite.md",
+      "wiki/entities/acceptance-form-system.md"
+    ],
+    "searchQueries": [
+      "Node.js better-sqlite3 automatic backup strategy",
+      "SQLite WAL mode concurrent write performance",
+      "handling SQLite database locked error in Node.js"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5",
+    "resolved": false,
+    "createdAt": 1780509117939
+  },
+  {
+    "type": "suggestion",
+    "title": "VitePress 作为应用壳子的架构边界研究",
+    "description": "源文档提到将 VitePress 用作动态应用容器属于“非常规”用法，存在路由冲突和 SEO 无关性等张力。建议进一步调研该模式在复杂交互场景下的局限性（如客户端路由管理、构建产物优化），并总结最佳实践，以便在未来类似内部工具开发中规避潜在陷阱。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-03 验收表单实现.md",
+    "affectedPages": [
+      "wiki/entities/vitepress.md",
+      "wiki/concepts/optimistic-update.md"
+    ],
+    "searchQueries": [
+      "VitePress used as SPA app shell limitations",
+      "VitePress custom theme dynamic routing issues",
+      "VitePress vs Vite for internal dashboard tools"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6",
+    "resolved": false,
+    "createdAt": 1780509117939
+  },
+  {
+    "type": "suggestion",
+    "title": "大规模网格数据渲染性能优化",
+    "description": "源文档在开放问题中提出：若点位从 1200 增至 10000，当前的预种子策略和 Vue 列表渲染可能成为瓶颈。建议研究前端虚拟滚动（Virtual Scrolling）或 Canvas 渲染技术在大规模网格数据展示中的应用，以及后端分页或懒加载策略，为系统扩展性提供理论支撑。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-03 验收表单实现.md",
+    "affectedPages": [
+      "wiki/concepts/grid-mapping.md",
+      "wiki/entities/acceptance-form-system.md"
+    ],
+    "searchQueries": [
+      "Vue 3 virtual scroll large grid performance",
+      "rendering 10000+ items in Vue component",
+      "SQLite pagination strategies for large datasets"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7",
+    "resolved": false,
+    "createdAt": 1780509117939
+  },
+  {
+    "type": "contradiction",
+    "title": "旧数据兼容性与迁移策略",
+    "description": "源文档明确指出重构将“停止依赖旧 `scene_results` 表”且“如实现中发现某个旧组件完全失效，可直接替换而不是保留兼容层”。这与通常的软件工程实践（保留历史数据兼容性）存在张力。如果用户需要保留旧系统的验收记录，目前计划倾向于直接截断或丢失数据，需确认是否真的不需要迁移脚本。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-04 矩阵工作台实现.md",
+    "affectedPages": [
+      "wiki/queries/data-migration-strategy.md"
+    ],
+    "searchQueries": [
+      "sqlite database migration script old schema to new schema",
+      "data retention strategy software refactoring",
+      "backward compatibility database schema changes"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8",
+    "resolved": false,
+    "createdAt": 1780509574629
+  },
+  {
+    "type": "missing-page",
+    "title": "极端尺寸下的动态矩阵性能",
+    "description": "源文档提到了动态计算矩阵尺寸（基于平方根），但未详述在点数极少（<4）或极多（>10000）时的 UI 表现和性能边界。这是一个值得进一步验证和记录的开放问题。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-04 矩阵工作台实现.md",
+    "affectedPages": [
+      "wiki/queries/matrix-performance-boundaries.md"
+    ],
+    "searchQueries": [
+      "vue performance large grid rendering 10000 items",
+      "dynamic grid layout edge cases small dataset",
+      "css grid performance limits browser"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9",
+    "resolved": false,
+    "createdAt": 1780509574629
+  },
+  {
+    "type": "suggestion",
+    "title": "极端尺寸下的动态矩阵性能边界",
+    "description": "源文档提到了动态计算矩阵尺寸（基于平方根），但未详述在点数极少（<4）或极多（>10000）时的 UI 表现和性能边界。Vue 渲染大量 DOM 节点可能存在性能瓶颈，这是一个值得进一步验证和记录的技术风险点。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-04 矩阵工作台实现.md",
+    "affectedPages": [
+      "wiki/queries/matrix-performance-boundaries.md"
+    ],
+    "searchQueries": [
+      "vue performance large grid rendering 10000 items",
+      "dynamic grid layout edge cases small dataset",
+      "css grid performance limits browser"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-10",
+    "resolved": false,
+    "createdAt": 1780509574629
+  },
+  {
+    "type": "missing-page",
+    "title": "非 Git 环境下的重构风险控制",
+    "description": "文档特别注明“当前工作目录不是 Git 仓库”，这与 TDD 迭代中频繁回滚的最佳实践冲突。虽然建议手动备份，但缺乏具体的操作规范或替代方案（如本地快照脚本）。建议补充在此类受限环境下进行大规模重构的安全操作指南。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/2026-04-04 矩阵工作台实现.md",
+    "affectedPages": [
+      "wiki/concepts/refactoring-without-version-control.md"
+    ],
+    "searchQueries": [
+      "best practices for refactoring without git",
+      "manual backup strategies for code refactoring",
+      "risk management in software development without vcs"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-11",
+    "resolved": false,
+    "createdAt": 1780509574629
+  },
+  {
+    "type": "contradiction",
+    "title": "Python vs Node.js Stack Integration",
+    "description": "The new source introduces a Python-based AI module (Ultralytics YOLO/AI Gym), while the existing project architecture is strictly Node.js/Vue/SQLite. There is no defined strategy in the current wiki for bridging these two technology stacks.",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI 健身房.md",
+    "affectedPages": [
+      "wiki/queries/python-node-integration.md"
+    ],
+    "searchQueries": [
+      "integrate python ultralytics yolo with node.js vue frontend",
+      "run yolo model in browser onnx runtime javascript",
+      "python microservice communication with node.js express"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-12",
+    "resolved": false,
+    "createdAt": 1780509890323
+  },
+  {
+    "type": "suggestion",
+    "title": "Adaptation of Gym Logic for Engineering Acceptance",
+    "description": "The \"Gym Step Counting\" logic detects specific repetitive human movements. This concept could theoretically be adapted for the \"Engineering Acceptance\" domain to verify worker actions or safety protocols, but this connection is currently speculative.",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI 健身房.md",
+    "affectedPages": [
+      "wiki/synthesis/cv-in-acceptance.md"
+    ],
+    "searchQueries": [
+      "computer vision for construction safety monitoring",
+      "automated worker activity recognition using pose estimation",
+      "AI quality control in construction industry"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-13",
+    "resolved": false,
+    "createdAt": 1780509890323
+  },
+  {
+    "type": "suggestion",
+    "title": "网络延迟与本地兜底策略",
+    "description": "源文档指出 MVP 架构完全依赖云端（ASR/LLM/TTS），这可能导致在网络不佳时触摸反馈或对话出现明显延迟，影响体验。文档提到“开发阶段先写死 Wi-Fi\"，暗示配网和稳定性是潜在风险。建议进一步研究如何在设备端实现“本地兜底”逻辑（如预存常用语和表情动画），以在断网或高延迟时保持基础交互流畅性。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴型机器人.md",
+    "affectedPages": [
+      "wiki/concepts/embedded-device-workflow.md",
+      "wiki/concepts/cloud-voice-architecture.md"
+    ],
+    "searchQueries": [
+      "embedded device offline voice feedback latency optimization",
+      "local fallback strategy for IoT voice assistants",
+      "edge computing for touch response in smart toys"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-14",
+    "resolved": false,
+    "createdAt": 1780510184673
+  },
+  {
+    "type": "suggestion",
+    "title": "配网流程的用户体验设计",
+    "description": "MVP 阶段采用“写死 Wi-Fi\"的方式仅适用于开发演示，实际产品需要友好的配网流程（如 AP 模式、蓝牙配网或声波配网）。这对于非技术用户至关重要，建议调研适合该硬件方案的最低成本配网方案。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴型机器人.md",
+    "affectedPages": [
+      "wiki/entities/ai-companion-robot-mvp.md"
+    ],
+    "searchQueries": [
+      "esp32 wifi provisioning methods comparison",
+      "bluetooth low energy wifi provisioning for iot devices",
+      "smart device onboarding ux patterns"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-15",
+    "resolved": false,
+    "createdAt": 1780510184673
+  },
+  {
+    "type": "suggestion",
+    "title": "网络异常处理策略研究",
+    "description": "文档指出项目完全依赖 Wi-Fi 和云端 API，但未详细定义网络波动或断开时的设备端行为（如超时提示、离线模式）。这是一个潜在的体验风险点，建议研究业界类似的云端语音设备（如智能音箱）在网络异常时的降级处理方案。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档.md",
+    "affectedPages": [
+      "wiki/queries/network-fallback-strategy.md"
+    ],
+    "searchQueries": [
+      "smart speaker offline behavior handling",
+      "voice assistant network timeout UX",
+      "IoT device cloud dependency fallback strategies"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-16",
+    "resolved": false,
+    "createdAt": 1780510531364
+  },
+  {
+    "type": "suggestion",
+    "title": "网络异常处理与离线降级策略",
+    "description": "文档明确指出架构完全依赖 Wi-Fi 和云端 API，但未定义网络波动、超时或断开时的设备端默认行为（如离线提示音、本地缓存重试、表情状态回退）。这是影响 MVP 演示稳定性的关键风险点，需研究业界云端语音设备（如智能音箱）的降级处理模式。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档.md",
+    "affectedPages": [
+      "wiki/concepts/cloud-voice-architecture.md",
+      "wiki/entities/ai-companion-robot-mvp.md"
+    ],
+    "searchQueries": [
+      "smart speaker offline behavior handling",
+      "voice assistant network timeout UX design",
+      "IoT device cloud dependency fallback strategies"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-17",
+    "resolved": false,
+    "createdAt": 1780510531364
+  },
+  {
+    "type": "suggestion",
+    "title": "云端全链路延迟优化方案",
+    "description": "文档预估 ASR+LLM+TTS 全链路延迟为 2-5 秒，并提出通过“聆听”表情和中间音效优化感知，但缺乏具体的技术实现方案（如流式传输、首字延迟优化、TTS 预生成策略）。需深入研究低延迟语音交互架构以提升陪伴感。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档.md",
+    "affectedPages": [
+      "wiki/concepts/cloud-voice-architecture.md",
+      "wiki/concepts/expression-state-machine.md"
+    ],
+    "searchQueries": [
+      "reduce ASR LLM TTS pipeline latency",
+      "streaming voice response optimization",
+      "conversational AI latency reduction techniques"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-18",
+    "resolved": false,
+    "createdAt": 1780510531364
+  },
+  {
+    "type": "suggestion",
+    "title": "极简配网流程技术选型",
+    "description": "文档提到开发阶段可“写死 Wi-Fi\"，但交付非开发人员测试时需确定最终配网方案。需在蓝牙配网（BLE Provisioning）、SmartConfig 或 AP 模式等轻量级方案中进行对比，以找到适合该 MVP 的最小实现路径。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档.md",
+    "affectedPages": [
+      "wiki/entities/full-stack-device-engineer.md",
+      "wiki/concepts/embedded-device-workflow.md"
+    ],
+    "searchQueries": [
+      "ESP32 minimal wifi provisioning methods",
+      "BLE smart config vs AP mode for IoT",
+      "simplest wifi setup for embedded prototypes"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-19",
+    "resolved": false,
+    "createdAt": 1780510531364
+  },
+  {
+    "type": "missing-page",
+    "title": "配网策略与用户体验的矛盾",
+    "description": "文档中提到 MVP 阶段“开发阶段先写死 Wi-Fi\"，但这与最终产品的易用性存在冲突。既然明确“不要 App\"，量产时用户如何配置 Wi-Fi？是否需要预留蓝牙配网代码即使 MVP 不用？这是一个需要解决的技术决策点。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档_1.md",
+    "affectedPages": [
+      "wiki/entities/ai-companion-robot-mvp.md",
+      "wiki/sources/AI 陪伴机器人需求文档_1.md"
+    ],
+    "searchQueries": [
+      "IoT device wifi provisioning without app",
+      "bluetooth provisioning vs smartconfig embedded linux",
+      "user experience wifi setup smart home devices no app"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-20",
+    "resolved": false,
+    "createdAt": 1780510837670
+  },
+  {
+    "type": "missing-page",
+    "title": "云端延迟对对话体验的影响",
+    "description": "采用 [[cloud-voice-architecture]] 意味着所有语音处理都在云端，网络延迟（ASR+LLM+TTS）可能影响对话的实时感和自然度。MVP 阶段是否需要本地缓存常用回复或优化超时策略？",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档_1.md",
+    "affectedPages": [
+      "wiki/concepts/cloud-voice-architecture.md",
+      "wiki/entities/ai-companion-robot-mvp.md"
+    ],
+    "searchQueries": [
+      "cloud voice assistant latency optimization",
+      "ASR LLM TTS pipeline response time benchmarks",
+      "local caching strategies for voice ai responses"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-21",
+    "resolved": false,
+    "createdAt": 1780510837670
+  },
+  {
+    "type": "suggestion",
+    "title": "嵌入式设备配网方案对比研究",
+    "description": "当前 MVP 文档为了速度选择“写死 Wi-Fi\"，但这不可持续。既然明确排除了 App，需要研究在无 App 场景下，嵌入式设备（如 Linux 主控）最友好的配网方案（如蓝牙 BLE 配网、SmartConfig、或网页配网 Captive Portal）。这直接关系到产品从原型到可用的跨越。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档_1.md",
+    "affectedPages": [
+      "wiki/entities/ai-companion-robot-mvp.md",
+      "wiki/concepts/embedded-device-workflow.md"
+    ],
+    "searchQueries": [
+      "embedded linux wifi provisioning without mobile app",
+      "BLE provisioning vs captive portal for IoT devices",
+      "ESP32 linux smartconfig alternatives"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-22",
+    "resolved": false,
+    "createdAt": 1780510837670
+  },
+  {
+    "type": "suggestion",
+    "title": "云端语音链路延迟优化策略",
+    "description": "[[cloud-voice-architecture]] 将 ASR、LLM、TTS 全部上云，必然引入网络延迟。对于陪伴型机器人，超过 2-3 秒的响应会严重破坏体验。需要研究如何通过流式传输（Streaming ASR/TTS）、本地缓存常用语、或边缘计算来优化端到端延迟，以确定 MVP 的可行性边界。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档_1.md",
+    "affectedPages": [
+      "wiki/concepts/cloud-voice-architecture.md",
+      "wiki/concepts/minimum-demo-loop.md"
+    ],
+    "searchQueries": [
+      "optimize latency for cloud voice assistant ASR LLM TTS",
+      "streaming TTS vs full sentence generation latency",
+      "voice ai response time benchmarks 2026"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-23",
+    "resolved": false,
+    "createdAt": 1780510837670
+  },
+  {
+    "type": "missing-page",
+    "title": "单点触摸传感器的交互局限与突破",
+    "description": "文档限定使用“单点触摸传感器”以简化硬件，但这限制了交互丰富度（无法区分摸头、摸背、拍手等）。需要调研是否有低成本方案能在单线输入下实现多点识别，或者通过“触摸模式”（如长按、双击、滑动）来扩展交互维度，避免产品显得过于呆板。",
+    "sourcePath": "D:/MyWiki/content/raw/sources/AI陪伴机器人需求文档_1.md",
+    "affectedPages": [
+      "wiki/entities/ai-companion-robot-mvp.md",
+      "wiki/concepts/expression-state-machine.md"
+    ],
+    "searchQueries": [
+      "single wire touch sensor multi-point detection",
+      "capacitive touch gesture recognition single pin",
+      "distinguishing touch patterns on single sensor embedded"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-24",
+    "resolved": false,
+    "createdAt": 1780510837670
+  },
+  {
+    "type": "suggestion",
+    "title": "Verify Ultralytics Package Version",
+    "description": "The source explicitly states that Platform integration (remote training, API keys) requires `ultralytics>=8.4.0`. Existing projects or the `ai-gym-module` might be pinned to older versions.",
+    "sourcePath": "D:/MyWiki/content/raw/sources/API 密钥.md",
+    "affectedPages": [
+      "wiki/entities/ultralytics-yolo.md",
+      "wiki/concepts/remote-training.md"
+    ],
+    "searchQueries": [
+      "ultralytics python package version 8.4.0 changelog",
+      "yolo remote training version requirements",
+      "ultralytics platform integration compatibility"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-25",
+    "resolved": false,
+    "createdAt": 1780511058532
+  },
+  {
+    "type": "suggestion",
+    "title": "Audit Embedded Device Security",
+    "description": "The source advises against hardcoding keys and recommends environment variables. The `ai-companion-robot-mvp` and other embedded projects should be audited to ensure `ULTRALYTICS_API_KEY` is injected securely rather than hardcoded in firmware or scripts.",
+    "sourcePath": "D:/MyWiki/content/raw/sources/API 密钥.md",
+    "affectedPages": [
+      "wiki/concepts/embedded-device-workflow.md",
+      "wiki/entities/ai-companion-robot-mvp.md"
+    ],
+    "searchQueries": [
+      "secure environment variable injection embedded linux",
+      "raspberry pi secrets management best practices",
+      "dotenv usage in python embedded systems"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-26",
+    "resolved": false,
+    "createdAt": 1780511058532
+  },
+  {
+    "type": "suggestion",
+    "title": "Verify Ultralytics Package Version Compatibility",
+    "description": "The source explicitly mandates `ultralytics>=8.4.0` for any Platform integration (remote training, API key auth). Existing project dependencies or the `ai-gym-module` implementation may be pinned to older versions, which would cause immediate authentication failures.",
+    "sourcePath": "D:/MyWiki/content/raw/sources/API 密钥.md",
+    "affectedPages": [
+      "wiki/entities/ultralytics-yolo.md",
+      "wiki/concepts/remote-training.md"
+    ],
+    "searchQueries": [
+      "ultralytics python package version 8.4.0 changelog",
+      "yolo remote training version requirements",
+      "ultralytics platform integration compatibility"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-27",
+    "resolved": false,
+    "createdAt": 1780511058532
+  },
+  {
+    "type": "suggestion",
+    "title": "Audit Embedded Device Secret Management",
+    "description": "The source strictly advises against hardcoding keys and recommends `ULTRALYTICS_API_KEY` environment variables. The `ai-companion-robot-mvp` and related embedded workflows need an audit to ensure secrets are injected securely (e.g., via `.env` or OS secrets) rather than hardcoded in firmware or source control.",
+    "sourcePath": "D:/MyWiki/content/raw/sources/API 密钥.md",
+    "affectedPages": [
+      "wiki/concepts/embedded-device-workflow.md",
+      "wiki/entities/ai-companion-robot-mvp.md"
+    ],
+    "searchQueries": [
+      "secure environment variable injection embedded linux",
+      "raspberry pi secrets management best practices",
+      "dotenv usage in python embedded systems"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-28",
+    "resolved": false,
+    "createdAt": 1780511058532
+  }
+]
