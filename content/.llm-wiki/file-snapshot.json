@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1780523925794,
+  "updatedAt": 1780511059333,
   "files": {
     "purpose.md": {
       "hash": "77546dadbea32fdcf671400051e18f56",
@@ -1937,6 +1937,11 @@
       "size": 7229,
       "mtimeMs": 1780506804865
     },
+    "raw/sources/总索引.md": {
+      "hash": "ef5d52b49270b2ce243ea0d35005f4d1",
+      "size": 5689,
+      "mtimeMs": 1780506805149
+    },
     "raw/sources/恢复.md": {
       "hash": "46c7d595bce6387a911f3d41856ca48a",
       "size": 1135,
@@ -2612,6 +2617,11 @@
       "size": 29589,
       "mtimeMs": 1780506804677
     },
+    "raw/sources/索引.md": {
+      "hash": "241f1d5e9ec02cab05b9705fb0797c29",
+      "size": 2620,
+      "mtimeMs": 1780506804998
+    },
     "raw/sources/结果.md": {
       "hash": "e48d6a6596227f3ea659cfc0735433cb",
       "size": 1212,
@@ -3147,135 +3157,15 @@
       "size": 2078,
       "mtimeMs": 1780505939654
     },
-    "wiki/README.md": {
-      "hash": "875f7c689ad0fa912ddf40e7dc44c3b7",
-      "size": 2358,
-      "mtimeMs": 1780523265049
-    },
-    "wiki/concepts/2d-topology-reconstruction.md": {
-      "hash": "b1fc1086bfb5fbb1fc3d3b88aca2b36a",
-      "size": 1351,
-      "mtimeMs": 1780512972679
-    },
-    "wiki/concepts/ai-gym-module.md": {
-      "hash": "b002dabba10af67b46ff2b5d03bd82ee",
-      "size": 1543,
-      "mtimeMs": 1780513312050
-    },
-    "wiki/concepts/albumentations-integration.md": {
-      "hash": "a81d21b3bfbbf5adc7ccec6e5c8002be",
-      "size": 2077,
-      "mtimeMs": 1780516366271
-    },
-    "wiki/concepts/api-compatibility-layer.md": {
-      "hash": "615257d21109f0f8525449dd54d1e68b",
-      "size": 2169,
-      "mtimeMs": 1780522520422
-    },
-    "wiki/concepts/automated-quantity-takeoff.md": {
-      "hash": "eccc03b370408130142ca64c3bcb4aba",
-      "size": 1430,
-      "mtimeMs": 1780512972671
-    },
-    "wiki/concepts/automatic-data-splitting.md": {
-      "hash": "478d813b9c6a7b4938a3b992745a382f",
-      "size": 1962,
-      "mtimeMs": 1780521040412
-    },
-    "wiki/concepts/autonomous-driving-tasks.md": {
-      "hash": "b1f44c7dcf8835ca87913fcf5c91d52f",
-      "size": 2495,
-      "mtimeMs": 1780511875916
-    },
-    "wiki/concepts/autoscaling-workers.md": {
-      "hash": "224ab98a4a6a081e82d8fe2ff5555473",
-      "size": 1452,
-      "mtimeMs": 1780521656476
-    },
-    "wiki/concepts/bot-sort-tracker.md": {
-      "hash": "6f9fa25632d6e3f2762d4cba2db37028",
-      "size": 2799,
-      "mtimeMs": 1780513311323
+    "wiki/_master-index.md": {
+      "hash": "b1c53001f33243e4739129948f0096ce",
+      "size": 58,
+      "mtimeMs": 1780442226551
     },
     "wiki/concepts/cloud-voice-architecture.md": {
       "hash": "6601c4fd33bd38d2678845bfdb092cf8",
       "size": 1666,
       "mtimeMs": 1780510184234
-    },
-    "wiki/concepts/cloudflare-zero-trust.md": {
-      "hash": "fde7f42750ec4ee5699cbfdd9d20cb4e",
-      "size": 2167,
-      "mtimeMs": 1780521939244
-    },
-    "wiki/concepts/comet-artifacts.md": {
-      "hash": "8c6206e51b539cc043d609afaac7be2e",
-      "size": 1966,
-      "mtimeMs": 1780523924470
-    },
-    "wiki/concepts/comet-optimizer.md": {
-      "hash": "b6ef079882299230291287dba7050a00",
-      "size": 1716,
-      "mtimeMs": 1780523924481
-    },
-    "wiki/concepts/comet-yolo-integration.md": {
-      "hash": "51c225da3fbbd8123301b9b0c49d2ce0",
-      "size": 2851,
-      "mtimeMs": 1780523924453
-    },
-    "wiki/concepts/compute-instance.md": {
-      "hash": "f038d2541ec3e02634448340d3be552e",
-      "size": 1673,
-      "mtimeMs": 1780512585477
-    },
-    "wiki/concepts/connection-pooling.md": {
-      "hash": "6d12fdeb1121390e55e995ba356f36e8",
-      "size": 1774,
-      "mtimeMs": 1780522520430
-    },
-    "wiki/concepts/convolutional-neural-networks.md": {
-      "hash": "96ac3c81e8771e5a64ca6a0d59afc8fc",
-      "size": 1202,
-      "mtimeMs": 1780513742962
-    },
-    "wiki/concepts/cutmix.md": {
-      "hash": "48fe08367418c45220e264201c459689",
-      "size": 1807,
-      "mtimeMs": 1780516366204
-    },
-    "wiki/concepts/dataset-versioning.md": {
-      "hash": "c614c4d1cd2015580df166940e17a479",
-      "size": 1738,
-      "mtimeMs": 1780521296993
-    },
-    "wiki/concepts/dataset-yaml-config.md": {
-      "hash": "12e0c30ddc4659b25ee4e62ff5e00e79",
-      "size": 1687,
-      "mtimeMs": 1780518234247
-    },
-    "wiki/concepts/distributed-training-load-balancing.md": {
-      "hash": "529a86d54b6b0c104fef4e6392bcd620",
-      "size": 1501,
-      "mtimeMs": 1780511645282
-    },
-    "wiki/concepts/docker-deployment.md": {
-      "hash": "12c70c0714570a969a2d438c732b0c2e",
-      "size": 852,
-      "mtimeMs": 1780522921798
-    },
-    "wiki/concepts/dxf-parsing.md": {
-      "hash": "75949fa8e807693e95c2418777ac3c8b",
-      "size": 1304,
-      "mtimeMs": 1780512972685
-    },
-    "wiki/concepts/dynamic-channel-conversion.md": {
-      "hash": "1ea26dfb953d048193a0e1fa0b320679",
-      "size": 1709,
-      "mtimeMs": 1780519908470
-    },
-    "wiki/concepts/edge-ai-inference.md": {
-      "hash": "fb88fefe3cb7a852a8d0227c67443449",
-      "size": 2243,
-      "mtimeMs": 1780512214157
     },
     "wiki/concepts/embedded-device-workflow.md": {
       "hash": "894effe407963c633abdc497e26d6faa",
@@ -3287,26 +3177,6 @@
       "size": 1515,
       "mtimeMs": 1780510184247
     },
-    "wiki/concepts/format-specific-dependencies.md": {
-      "hash": "4e1025f920a48c0dcc32df52cacdda32",
-      "size": 1563,
-      "mtimeMs": 1780517640729
-    },
-    "wiki/concepts/geometric-transformation.md": {
-      "hash": "9255df2c12d142e281e2b28cd8acc9ea",
-      "size": 2324,
-      "mtimeMs": 1780516366220
-    },
-    "wiki/concepts/global-motion-compensation.md": {
-      "hash": "af4435541e057135bb231e35e5b84c43",
-      "size": 1768,
-      "mtimeMs": 1780513311336
-    },
-    "wiki/concepts/grayscale-object-detection.md": {
-      "hash": "4bc26a27221ad23422f8b412c4ad1bdc",
-      "size": 2028,
-      "mtimeMs": 1780519908450
-    },
     "wiki/concepts/grid-mapping.md": {
       "hash": "ad723d076cf3a64972cdb8337819626b",
       "size": 1757,
@@ -3316,41 +3186,6 @@
       "hash": "5d8e6de0e02710345c2f512174406c1e",
       "size": 1566,
       "mtimeMs": 1780509889705
-    },
-    "wiki/concepts/hybrid-network-architecture.md": {
-      "hash": "003bada0361127c978d0843ed91613c6",
-      "size": 1035,
-      "mtimeMs": 1780522921813
-    },
-    "wiki/concepts/image-augmentation-strategies.md": {
-      "hash": "b5c70387d53420a47061c6ea6ba4410c",
-      "size": 3664,
-      "mtimeMs": 1780516366154
-    },
-    "wiki/concepts/image-classification.md": {
-      "hash": "5ae854cd4bbb3911f5e564fefce63850",
-      "size": 1817,
-      "mtimeMs": 1780513742957
-    },
-    "wiki/concepts/image-format-compatibility-testing.md": {
-      "hash": "eac547ab70814a64da041f6f10405bab",
-      "size": 1977,
-      "mtimeMs": 1780517640706
-    },
-    "wiki/concepts/instance-segmentation.md": {
-      "hash": "93a759bc0455b806291856fa3d8000c7",
-      "size": 1673,
-      "mtimeMs": 1780516681987
-    },
-    "wiki/concepts/ipython-kernel.md": {
-      "hash": "562c31954c15d399478cee187bf87a5e",
-      "size": 1405,
-      "mtimeMs": 1780512585485
-    },
-    "wiki/concepts/kalman-filter.md": {
-      "hash": "3917aca9eb8fe017ef699f8b06a51f55",
-      "size": 1224,
-      "mtimeMs": 1780513311343
     },
     "wiki/concepts/key-rotation.md": {
       "hash": "064f18f858e06b6a9e471e34be851ba0",
@@ -3362,90 +3197,10 @@
       "size": 2314,
       "mtimeMs": 1780511058150
     },
-    "wiki/concepts/lidar-data-processing.md": {
-      "hash": "f87cb94b70a1591eb36b40e352622dc3",
-      "size": 2081,
-      "mtimeMs": 1780511875921
-    },
-    "wiki/concepts/mcp-first-principle.md": {
-      "hash": "1b84c1d39f593d2f71c6014008e42dd1",
-      "size": 2012,
-      "mtimeMs": 1780522335436
-    },
-    "wiki/concepts/mcp-protocol.md": {
-      "hash": "c23ca08404048ee44e1fa3e7b0a001e2",
-      "size": 1460,
-      "mtimeMs": 1780522335384
-    },
-    "wiki/concepts/mcp-tool-ecosystem.md": {
-      "hash": "5176910afbca6c3ddc7b3f303b392780",
-      "size": 980,
-      "mtimeMs": 1780522921804
-    },
-    "wiki/concepts/mean-average-precision-map.md": {
-      "hash": "648a2771995208e55d918b23ff9516ba",
-      "size": 1657,
-      "mtimeMs": 1780516681971
-    },
-    "wiki/concepts/mean-average-recall-mar.md": {
-      "hash": "18a88ac5a681d483c244c3df303d91d6",
-      "size": 1655,
-      "mtimeMs": 1780517334625
-    },
     "wiki/concepts/minimum-demo-loop.md": {
       "hash": "921f555871af1efa59e60c370c550d12",
       "size": 2442,
       "mtimeMs": 1780510832518
-    },
-    "wiki/concepts/mixup.md": {
-      "hash": "775772ff7e77ebed20b54f065afc532c",
-      "size": 1882,
-      "mtimeMs": 1780516366187
-    },
-    "wiki/concepts/mlops-workflow.md": {
-      "hash": "b925c39095c6b1fc9aae9ae957c58180",
-      "size": 2207,
-      "mtimeMs": 1780521296910
-    },
-    "wiki/concepts/model-mapping.md": {
-      "hash": "00316d2b85c84ac1aff91deb7dbcf6bb",
-      "size": 1238,
-      "mtimeMs": 1780522520436
-    },
-    "wiki/concepts/model-quantization.md": {
-      "hash": "cd426b3029d3e4a4ec0b50a2b1ee2f16",
-      "size": 2221,
-      "mtimeMs": 1780512214150
-    },
-    "wiki/concepts/mosaic-augmentation.md": {
-      "hash": "740d46ff204179821b17147e1e1a1866",
-      "size": 2338,
-      "mtimeMs": 1780516366170
-    },
-    "wiki/concepts/multi-channel-tiff-format.md": {
-      "hash": "059d7477584402cc8b113ac5398169bb",
-      "size": 1782,
-      "mtimeMs": 1780518851565
-    },
-    "wiki/concepts/multispectral-object-detection.md": {
-      "hash": "f65c0772b0f1ce7acdee80eb8c099302",
-      "size": 2092,
-      "mtimeMs": 1780518851593
-    },
-    "wiki/concepts/object-keypoint-similarity.md": {
-      "hash": "7a4c65562ea83db660c7432271935bd4",
-      "size": 2020,
-      "mtimeMs": 1780517078350
-    },
-    "wiki/concepts/object-tracking-lifecycle.md": {
-      "hash": "b0e3d53233368068fd6549d852a3242a",
-      "size": 2501,
-      "mtimeMs": 1780516042089
-    },
-    "wiki/concepts/offline-logging.md": {
-      "hash": "abc2576b78acc9bfd924aaaedc3fcf50",
-      "size": 1857,
-      "mtimeMs": 1780523424655
     },
     "wiki/concepts/one-time-secret-display.md": {
       "hash": "006964bcb7dca014fda3954e9cefe592",
@@ -3456,21 +3211,6 @@
       "hash": "cdf0e03b5fccad615559abc105e7f107",
       "size": 2020,
       "mtimeMs": 1780509117390
-    },
-    "wiki/concepts/photometric-transformation.md": {
-      "hash": "7a96274cf4dc4c4254fd2fb53f32bc52",
-      "size": 2051,
-      "mtimeMs": 1780516366237
-    },
-    "wiki/concepts/pipeline-sanity-check.md": {
-      "hash": "1516c5aa14ae5d428b8e14e810fb7da8",
-      "size": 2485,
-      "mtimeMs": 1780517930579
-    },
-    "wiki/concepts/pose-detection-sanity-check.md": {
-      "hash": "0c16010aa57dd256eae6086fe31ff5d3",
-      "size": 1882,
-      "mtimeMs": 1780519206765
     },
     "wiki/concepts/pose-estimation.md": {
       "hash": "fac1a5185f4fb689e6afea4c1b04698f",
@@ -3487,25 +3227,10 @@
       "size": 1506,
       "mtimeMs": 1780509889693
     },
-    "wiki/concepts/reid-re-identification.md": {
-      "hash": "be696f8d32f92914b51b4c1674d5f6b9",
-      "size": 1881,
-      "mtimeMs": 1780513311331
-    },
     "wiki/concepts/remote-training.md": {
-      "hash": "4f61f23ea8780d4950f4cbfabeff114e",
-      "size": 2368,
-      "mtimeMs": 1780511457573
-    },
-    "wiki/concepts/skill-file-architecture.md": {
-      "hash": "5f4d8fd08a98dec101298accfcacc78f",
-      "size": 1381,
-      "mtimeMs": 1780511645298
-    },
-    "wiki/concepts/small-scale-vision-tasks.md": {
-      "hash": "0e64b5bff0b526f0f1dda9af2586d5ab",
-      "size": 1293,
-      "mtimeMs": 1780511645291
+      "hash": "ce0ed2cfc7ecd989a5432b27ded31d4c",
+      "size": 2222,
+      "mtimeMs": 1780511058141
     },
     "wiki/concepts/snake-mapping-algorithm.md": {
       "hash": "ff24468ac2ca3fc92559e48edbb275b4",
@@ -3517,75 +3242,15 @@
       "size": 2249,
       "mtimeMs": 1780509574174
     },
-    "wiki/concepts/spectral-interpolation.md": {
-      "hash": "990468b3a85796ebed824e902c306fdb",
-      "size": 1912,
-      "mtimeMs": 1780518851545
-    },
-    "wiki/concepts/ssh-proxy-command.md": {
-      "hash": "a6d2c02ac17a2b509e99ab05eb0954e3",
-      "size": 1973,
-      "mtimeMs": 1780521939309
-    },
-    "wiki/concepts/support-vector-machines.md": {
-      "hash": "e49a057f9e3af39efcdd19add31b7bd5",
-      "size": 844,
-      "mtimeMs": 1780513742969
-    },
-    "wiki/concepts/swap-memory-management.md": {
-      "hash": "c1790fda915cea44ae7a7d434f9d783e",
-      "size": 1758,
-      "mtimeMs": 1780511457583
-    },
-    "wiki/concepts/systematic-debugging.md": {
-      "hash": "40b1f0b9060e69c77db55f28f739be1c",
-      "size": 1517,
-      "mtimeMs": 1780522335554
-    },
-    "wiki/concepts/template-task.md": {
-      "hash": "72eba8d2b09f656723e223c94015bd8c",
-      "size": 1521,
-      "mtimeMs": 1780521656410
-    },
     "wiki/concepts/test-driven-development.md": {
       "hash": "94753dd3a9eed5c2430c1d6c09e60bd8",
       "size": 1796,
       "mtimeMs": 1780509117357
     },
-    "wiki/concepts/track-state-enum.md": {
-      "hash": "b5e84c00d88d63ac9aca47d57023489b",
-      "size": 2192,
-      "mtimeMs": 1780516042009
-    },
-    "wiki/concepts/ultralytics-transform-pipeline.md": {
-      "hash": "a3d1992c03cc2e41ddfd370020823887",
-      "size": 2540,
-      "mtimeMs": 1780516366254
-    },
     "wiki/concepts/weak-memory-strategy.md": {
       "hash": "5427502cab135917b408e554c8da1180",
       "size": 1591,
       "mtimeMs": 1780510184265
-    },
-    "wiki/concepts/windows-path-management.md": {
-      "hash": "7c2b17a83f041a2e9625fe85366f358e",
-      "size": 2628,
-      "mtimeMs": 1780521939372
-    },
-    "wiki/concepts/帧率.md": {
-      "hash": "e631f61c76a7659a53727a677939d804",
-      "size": 2402,
-      "mtimeMs": 1780520353111
-    },
-    "wiki/concepts/推理延迟.md": {
-      "hash": "88cdd88260ccef0e5ed32bc9894e54bf",
-      "size": 2446,
-      "mtimeMs": 1780520352982
-    },
-    "wiki/concepts/推理性能基准测试.md": {
-      "hash": "ebb9dce4e833658d99c8fa64d59d7748",
-      "size": 2982,
-      "mtimeMs": 1780520352907
     },
     "wiki/entities/AI陪伴机器人.md": {
       "hash": "38bcad4a7031fec4f4a1dbb3a77d26fe",
@@ -3705,7 +3370,7 @@
     "wiki/entities/Intel-NPU.md": {
       "hash": "889cb25252c34705019ab7a50e67a9d7",
       "size": 1302,
-      "mtimeMs": 1780522769448
+      "mtimeMs": 1780129118398
     },
     "wiki/entities/Kiro网关.md": {
       "hash": "b794e4d9e112aa2eebf3a9ea4f66002b",
@@ -3721,11 +3386,6 @@
       "hash": "0e77fb23564dd0e31fd6c7c43c9fa060",
       "size": 3595,
       "mtimeMs": 1780134578698
-    },
-    "wiki/entities/LabPC/Virtual用户.md": {
-      "hash": "8b573fa722f9f2a5072a5b1a93d90893",
-      "size": 2995,
-      "mtimeMs": 1780522767902
     },
     "wiki/entities/LabPC工作站.md": {
       "hash": "4053601bb41a33715097e75c09d10b97",
@@ -3832,225 +3492,15 @@
       "size": 1675,
       "mtimeMs": 1780509889657
     },
-    "wiki/entities/aiclient2api.md": {
-      "hash": "441778624352754ee32d1d191ecd7c2b",
-      "size": 652,
-      "mtimeMs": 1780522921755
-    },
-    "wiki/entities/alex-krizhevsky.md": {
-      "hash": "5855df36e7689b9b82c4ae4055c29899",
-      "size": 819,
-      "mtimeMs": 1780513742949
-    },
-    "wiki/entities/alienware-sub-server.md": {
-      "hash": "e3cfaea2da36e393e1ec70b1fbc37db0",
-      "size": 1947,
-      "mtimeMs": 1780511645260
-    },
-    "wiki/entities/argo-ai.md": {
-      "hash": "36060b18ce16dcd75e27763038f46701",
-      "size": 1245,
-      "mtimeMs": 1780511875910
-    },
-    "wiki/entities/aws-bedrock.md": {
-      "hash": "36b41d4b90e48be2413eb14c3fbc7cf6",
-      "size": 750,
-      "mtimeMs": 1780522520459
-    },
-    "wiki/entities/aws-deep-learning-ami.md": {
-      "hash": "1349c1683b62be778ec221d054cd249a",
-      "size": 1410,
-      "mtimeMs": 1780511453256
-    },
-    "wiki/entities/aws-ec2.md": {
-      "hash": "7da79bdd3905603b09a7820122a146f8",
-      "size": 1790,
-      "mtimeMs": 1780511453250
-    },
-    "wiki/entities/axelera-ai.md": {
-      "hash": "98b0b20ced67b06a4b50346a35a951e1",
-      "size": 1475,
-      "mtimeMs": 1780512214127
-    },
-    "wiki/entities/azure-ml.md": {
-      "hash": "8e0eafc26d33bea10f95ba36ca540d3c",
-      "size": 2029,
-      "mtimeMs": 1780512585470
-    },
-    "wiki/entities/base-track-class.md": {
-      "hash": "7a3bb93b826d47ef1a9ce491af389709",
-      "size": 2170,
-      "mtimeMs": 1780516041964
-    },
-    "wiki/entities/bim-quantity-takeoff-system.md": {
-      "hash": "d7d5fc4507f21e66cb98fd3b3df00ba8",
-      "size": 1724,
-      "mtimeMs": 1780512972662
-    },
-    "wiki/entities/caltech-101-dataset.md": {
-      "hash": "025f3ab58efe7e3cfbde997b244e342a",
-      "size": 1162,
-      "mtimeMs": 1780521040316
-    },
-    "wiki/entities/cifar-10-dataset.md": {
-      "hash": "5077f35e218700eaae97144028c4937f",
-      "size": 2197,
-      "mtimeMs": 1780513742944
-    },
-    "wiki/entities/clearml-agent.md": {
-      "hash": "0a259a59e2148828226a88484ffdfc8b",
-      "size": 1927,
-      "mtimeMs": 1780521296828
-    },
-    "wiki/entities/clearml-platform.md": {
-      "hash": "64159bba9513fab500ec7554b3af0b12",
-      "size": 2503,
-      "mtimeMs": 1780521296743
-    },
-    "wiki/entities/cloudflared.md": {
-      "hash": "fcd52e1d56a75ad97366577f01d10028",
-      "size": 1988,
-      "mtimeMs": 1780521939178
-    },
     "wiki/entities/cm.inspiro.top域名.md": {
       "hash": "463bc1620a272e0b9c7a39e49646d352",
       "size": 806,
       "mtimeMs": 1780129116486
     },
-    "wiki/entities/coco-dataset.md": {
-      "hash": "aaada4a3934cdbcb22a3782fb2b1bf11",
-      "size": 1940,
-      "mtimeMs": 1780516681927
-    },
-    "wiki/entities/coco-evaluation-server.md": {
-      "hash": "2a90f9bac8a0789324555bbe44b625a9",
-      "size": 1141,
-      "mtimeMs": 1780517334645
-    },
-    "wiki/entities/coco-pose-dataset.md": {
-      "hash": "8404015f4ae172fb1ca26d2c70dd18fb",
-      "size": 1754,
-      "mtimeMs": 1780517078340
-    },
-    "wiki/entities/coco-seg-dataset.md": {
-      "hash": "2b4c958fc992b1dfb803f0570e340860",
-      "size": 1880,
-      "mtimeMs": 1780517334583
-    },
-    "wiki/entities/coco12-formats-dataset.md": {
-      "hash": "9b65783801a297e9d41ea1d2e0482458",
-      "size": 1573,
-      "mtimeMs": 1780517640689
-    },
-    "wiki/entities/coco128-dataset.md": {
-      "hash": "3d1a24bb39a2b3fd1c2eda716bdbd370",
-      "size": 1964,
-      "mtimeMs": 1780518234216
-    },
-    "wiki/entities/coco128-seg-dataset.md": {
-      "hash": "3f78204937d08568a47b48f0f8bbbdc0",
-      "size": 2471,
-      "mtimeMs": 1780517930530
-    },
-    "wiki/entities/coco8-grayscale-dataset.md": {
-      "hash": "910ffad9d0f7f927ab4ddb0aaaaa3c88",
-      "size": 1997,
-      "mtimeMs": 1780519908411
-    },
-    "wiki/entities/coco8-multispectral-dataset.md": {
-      "hash": "6e52bec89512eb54e42cb855863fc8c0",
-      "size": 2442,
-      "mtimeMs": 1780518851526
-    },
-    "wiki/entities/coco8-pose-dataset.md": {
-      "hash": "d8f500aa4db7755bf04d94ddf6e30ef0",
-      "size": 1814,
-      "mtimeMs": 1780519206743
-    },
-    "wiki/entities/coco8-seg-dataset.md": {
-      "hash": "87b953edffebe29dc5c6463043f6a6a4",
-      "size": 1154,
-      "mtimeMs": 1780517334605
-    },
-    "wiki/entities/codex-cli.md": {
-      "hash": "55f00ed3232939f0d260b27fa9ca607d",
-      "size": 1761,
-      "mtimeMs": 1780522335326
-    },
-    "wiki/entities/codex-compatibility-layer.md": {
-      "hash": "846527728a34333d76e3208f1ffb9012",
-      "size": 1743,
-      "mtimeMs": 1780522520443
-    },
-    "wiki/entities/comet-ml-platform.md": {
-      "hash": "9e43be4a0955b9cb6667ed1321e2b94f",
-      "size": 2690,
-      "mtimeMs": 1780523424638
-    },
-    "wiki/entities/deepseek-api.md": {
-      "hash": "8061c76fbc9fdb60b66bab1634b3740e",
-      "size": 836,
-      "mtimeMs": 1780522520454
-    },
-    "wiki/entities/easytier.md": {
-      "hash": "73e93699cecc00f0e09ec44e39d3ef8d",
-      "size": 791,
-      "mtimeMs": 1780522921789
-    },
-    "wiki/entities/esp32-firmware.md": {
-      "hash": "e59e2532845d949f04e377c97276ee3c",
-      "size": 832,
-      "mtimeMs": 1780522921771
-    },
-    "wiki/entities/hermes-agent.md": {
-      "hash": "69c12f9d8d40f6d7d07441ed7c7fbbe8",
-      "size": 1268,
-      "mtimeMs": 1780522335495
-    },
-    "wiki/entities/labpc-workstation.md": {
-      "hash": "60b08fc1551493ea61116e9791b1b888",
-      "size": 977,
-      "mtimeMs": 1780511645267
-    },
-    "wiki/entities/linorobot2.md": {
-      "hash": "a8eb6034d071861d6a22148bd2149904",
-      "size": 740,
-      "mtimeMs": 1780522921748
-    },
-    "wiki/entities/metis-aipu.md": {
-      "hash": "91ba26009ff55c7e6922d97d0a0a355b",
-      "size": 1961,
-      "mtimeMs": 1780512214136
-    },
-    "wiki/entities/microsoft.md": {
-      "hash": "44f508e77fe28da5ee07a840091e7235",
-      "size": 987,
-      "mtimeMs": 1780516681947
-    },
-    "wiki/entities/new-api.md": {
-      "hash": "3ef9e0f85d679db3966bb4bfa19a4a58",
-      "size": 589,
-      "mtimeMs": 1780522921764
-    },
-    "wiki/entities/openmythos.md": {
-      "hash": "fc6b9498cd3b7378309de7884c24816b",
-      "size": 719,
-      "mtimeMs": 1780522921736
-    },
-    "wiki/entities/playwright-mcp.md": {
-      "hash": "51ee8e02e07b3969a65f02ebc2e00a0a",
-      "size": 741,
-      "mtimeMs": 1780522921780
-    },
     "wiki/entities/sqlite.md": {
       "hash": "599bd45c595b1ce7da664367a8cf3b62",
       "size": 1843,
       "mtimeMs": 1780509117424
-    },
-    "wiki/entities/sub2api.md": {
-      "hash": "50f0aa708e7ee3af45829abad946bff3",
-      "size": 903,
-      "mtimeMs": 1780522520449
     },
     "wiki/entities/ultralytics-api-keys.md": {
       "hash": "7899fb75cdf1022f3af92720075e8ff4",
@@ -4058,29 +3508,14 @@
       "mtimeMs": 1780511058134
     },
     "wiki/entities/ultralytics-yolo.md": {
-      "hash": "63701a63923ae3da1611ab6b12d0beb9",
-      "size": 1996,
-      "mtimeMs": 1780513312042
+      "hash": "eac1b992a2c7392ecb337dd23592a5c8",
+      "size": 1452,
+      "mtimeMs": 1780509889639
     },
     "wiki/entities/vitepress.md": {
       "hash": "2908a8bef020fbe619152b524c715978",
       "size": 1551,
       "mtimeMs": 1780509117405
-    },
-    "wiki/entities/voyager-sdk.md": {
-      "hash": "95630d13435a00b27abca676d70b5692",
-      "size": 1800,
-      "mtimeMs": 1780512214144
-    },
-    "wiki/entities/yolo12.md": {
-      "hash": "3f53f6854125860f4fa6e6fe21b9ab01",
-      "size": 2271,
-      "mtimeMs": 1780520352828
-    },
-    "wiki/entities/zhangwang-gpu-server.md": {
-      "hash": "a56c400a49190c4b577c6f9388688929",
-      "size": 983,
-      "mtimeMs": 1780511645273
     },
     "wiki/entities/人体量体模型.md": {
       "hash": "5d17e5cedab4626c23a493ec39ccb0a5",
@@ -4111,6 +3546,11 @@
       "hash": "753304509405590b3cf30fac84b28e4d",
       "size": 1060,
       "mtimeMs": 1780129128433
+    },
+    "wiki/entities/总索引.md": {
+      "hash": "ef5d52b49270b2ce243ea0d35005f4d1",
+      "size": 5689,
+      "mtimeMs": 1780272613771
     },
     "wiki/entities/技术图谱技能.md": {
       "hash": "0c32a7474d6748c845400a4ef00e5a4f",
@@ -4163,19 +3603,19 @@
       "mtimeMs": 1780129122276
     },
     "wiki/index.md": {
-      "hash": "00b761b99085c8cf629addc2c30cb872",
-      "size": 20698,
-      "mtimeMs": 1780523924508
+      "hash": "54fd86da934da38caa7a3981eff397de",
+      "size": 4124,
+      "mtimeMs": 1780511058171
     },
     "wiki/log.md": {
-      "hash": "8a67014a53fe37a8052a5660f61f9875",
-      "size": 3341,
-      "mtimeMs": 1780523924521
+      "hash": "6128839482f64e9691379f82a72bcb77",
+      "size": 1280,
+      "mtimeMs": 1780509574199
     },
     "wiki/overview.md": {
-      "hash": "ba10d6accaf1fe4821f61aae3c3061fc",
-      "size": 11644,
-      "mtimeMs": 1780523924513
+      "hash": "c501303c4976e9b32aa5188716d93814",
+      "size": 5169,
+      "mtimeMs": 1780511058175
     },
     "wiki/sources/2026-04-03 验收表单实现.md": {
       "hash": "57a4a9a7866e7d5755e24d435678424b",
@@ -4226,181 +3666,6 @@
       "hash": "0b815d9b144fa8a605c77488c8a6c2e4",
       "size": 2015,
       "mtimeMs": 1780511058123
-    },
-    "wiki/sources/AWS 快速入门教程.md": {
-      "hash": "46fed4b845824c048256c5bbf9ea3e7d",
-      "size": 2763,
-      "mtimeMs": 1780511453240
-    },
-    "wiki/sources/Alienware子服务器.md": {
-      "hash": "0bce2da6aec350ad28d95df0f89f1d55",
-      "size": 1228,
-      "mtimeMs": 1780511645243
-    },
-    "wiki/sources/Argoverse 数据集.md": {
-      "hash": "635021641ecb5564e10a900a70180dc0",
-      "size": 3191,
-      "mtimeMs": 1780511875901
-    },
-    "wiki/sources/Axelera 平台.md": {
-      "hash": "c73027bc928386955ee7cfba719bffb3",
-      "size": 2655,
-      "mtimeMs": 1780512214121
-    },
-    "wiki/sources/Azure ML 快速入门.md": {
-      "hash": "b29bc668834ff4020c46e77cc7f1a134",
-      "size": 3200,
-      "mtimeMs": 1780512270741
-    },
-    "wiki/sources/Azure ML 快速入门教程.md": {
-      "hash": "ab3bd81514593c3306b412c4f35eae5f",
-      "size": 2230,
-      "mtimeMs": 1780512585460
-    },
-    "wiki/sources/BIM算量系统.md": {
-      "hash": "f7d5c0c8434b48ea615d025edff03e09",
-      "size": 1422,
-      "mtimeMs": 1780512972653
-    },
-    "wiki/sources/BOT 排序跟踪.md": {
-      "hash": "24cf0ee966e492e2b804c7d85d36a2ce",
-      "size": 2801,
-      "mtimeMs": 1780513311316
-    },
-    "wiki/sources/CIFAR-10 数据集.md": {
-      "hash": "48fcc5ef45cd21b5d5acd8b153014129",
-      "size": 2145,
-      "mtimeMs": 1780513742939
-    },
-    "wiki/sources/CIFAR-100 数据集.md": {
-      "hash": "0b59b0153a423094cdeebd516563f52c",
-      "size": 3194,
-      "mtimeMs": 1780514301027
-    },
-    "wiki/sources/COCO 数据集.md": {
-      "hash": "052f8a8050a65fcdf7ec740ad6c9dc22",
-      "size": 4019,
-      "mtimeMs": 1780516681880
-    },
-    "wiki/sources/COCO 数据集_1.md": {
-      "hash": "39e9bdf9c7e28a224af1ead8393680ee",
-      "size": 2647,
-      "mtimeMs": 1780517078330
-    },
-    "wiki/sources/COCO 数据集_2.md": {
-      "hash": "33d77a0336aa7849c11d630a05314cd3",
-      "size": 3016,
-      "mtimeMs": 1780517334558
-    },
-    "wiki/sources/COCO12 格式.md": {
-      "hash": "0be572757fa12721efc3ff411a45cc84",
-      "size": 4268,
-      "mtimeMs": 1780517640681
-    },
-    "wiki/sources/COCO128 分割.md": {
-      "hash": "28439b0af51343fc9e192fe757e2599b",
-      "size": 2751,
-      "mtimeMs": 1780517930490
-    },
-    "wiki/sources/COCO128 数据集.md": {
-      "hash": "793cc107fc3c7bf690229a22fa06e43e",
-      "size": 2095,
-      "mtimeMs": 1780518234191
-    },
-    "wiki/sources/COCO8 分割.md": {
-      "hash": "3090e2de2d9d074c1a3eda17a0790251",
-      "size": 3173,
-      "mtimeMs": 1780518275278
-    },
-    "wiki/sources/COCO8 多光谱.md": {
-      "hash": "51e5a28eaa3e1a14310d17fb4d88de87",
-      "size": 2762,
-      "mtimeMs": 1780518851479
-    },
-    "wiki/sources/COCO8 姿态.md": {
-      "hash": "5aa59cd3a846b2f3888424f894fdb3c2",
-      "size": 1997,
-      "mtimeMs": 1780519206717
-    },
-    "wiki/sources/COCO8 数据集.md": {
-      "hash": "d8b38679ad10699aa9abed4165deea6b",
-      "size": 3182,
-      "mtimeMs": 1780519537073
-    },
-    "wiki/sources/COCO8 灰度.md": {
-      "hash": "fadb6c421527bc2117d752b130cb9109",
-      "size": 2685,
-      "mtimeMs": 1780519908364
-    },
-    "wiki/sources/CPU-GPU-NPU性能对比.md": {
-      "hash": "5bd4c5fc7e15dbe0b2a984517218ee92",
-      "size": 2241,
-      "mtimeMs": 1780520349737
-    },
-    "wiki/sources/Caltech101 数据集.md": {
-      "hash": "74dd5a5540dc680b4b7459091bfb51b5",
-      "size": 3199,
-      "mtimeMs": 1780520755678
-    },
-    "wiki/sources/Caltech256 数据集.md": {
-      "hash": "56c09631906760df357f29a730dd7c08",
-      "size": 3220,
-      "mtimeMs": 1780521040239
-    },
-    "wiki/sources/ClearML 平台.md": {
-      "hash": "3d8b271418f4df3d9ad5c60428083b81",
-      "size": 3189,
-      "mtimeMs": 1780521296662
-    },
-    "wiki/sources/ClearML 日志集成.md": {
-      "hash": "2665524b0d5374a0bdf5f861569bee8a",
-      "size": 3341,
-      "mtimeMs": 1780521656352
-    },
-    "wiki/sources/Cloudflared隧道.md": {
-      "hash": "f0c04e9a2bee9bd440f16945605a642f",
-      "size": 2045,
-      "mtimeMs": 1780521939119
-    },
-    "wiki/sources/Codex-MCP工具.md": {
-      "hash": "782e316e3e618289c10b1348d60444e4",
-      "size": 3109,
-      "mtimeMs": 1780522335275
-    },
-    "wiki/sources/Codex兼容层.md": {
-      "hash": "8b898e18bbf7574aa00c8c623ac92cf3",
-      "size": 2570,
-      "mtimeMs": 1780522520387
-    },
-    "wiki/sources/Codex杂项任务.md": {
-      "hash": "bfd8ec96cb8162ddce8bc6c99ab69b1c",
-      "size": 2935,
-      "mtimeMs": 1780522921725
-    },
-    "wiki/sources/Codex网络调试经验.md": {
-      "hash": "f80699812484ede0cbed7e876636645d",
-      "size": 5500,
-      "mtimeMs": 1780522972580
-    },
-    "wiki/sources/Comet ML 平台.md": {
-      "hash": "e3d0566089b9f63965c9b6323b590851",
-      "size": 2807,
-      "mtimeMs": 1780523424630
-    },
-    "wiki/sources/Comet 日志集成.md": {
-      "hash": "4466eee2edf610694c13762c3b542073",
-      "size": 3133,
-      "mtimeMs": 1780523901754
-    },
-    "wiki/sources/基础跟踪.md": {
-      "hash": "c23b842b44c43d76e5c823372791303c",
-      "size": 2628,
-      "mtimeMs": 1780516041924
-    },
-    "wiki/sources/增强.md": {
-      "hash": "2f3c60c22e1c9cb335e46b8cf18fc28a",
-      "size": 3686,
-      "mtimeMs": 1780516366123
     }
   }
 }

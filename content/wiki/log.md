@@ -1,54 +1,39 @@
-# Research Log
+# Wiki Log
+
+## 2026-06-03
+
+- Project created
+- 批量删除 629 个源文件和 0 个知识页面
 
 ## 2026-06-04
 
-- Project structure aligned with reference template
-
-## 2026-05-30 ingest | Codex 杂项任务汇总
-
--  ingest **Codex 杂项任务.md**，识别出 Codex CLI 作为全能运维中心的新角色。
--  新建实体页面：[[openmythos]], [[linorobot2]], [[aiclient2api]], [[new-api]], [[esp32-firmware]], [[playwright-mcp]], [[easytier]]。
--  新建概念页面：[[docker-deployment]], [[mcp-tool-ecosystem]], [[hybrid-network-architecture]]。
--  更新 [[codex-cli]] 和 [[mcp-protocol]] 相关描述，强调其在部署、硬件交互和浏览器自动化中的实际应用。
--  更新索引和概述，反映混合网络架构（Cloudflared + EasyTier）和容器化部署流程的引入。
+- 知识库结构改造：将 content/ 改造为包含 raw/, wiki/, schema.md, purpose.md 的结构
+- 迁移 583+ 个原始资料到 raw/sources/
+- 迁移 62 个知识库条目到 wiki/entities/
+- 创建完整的 wiki 结构（entities/, concepts/, sources/, queries/, comparisons/, synthesis/）
 
 ---
 type: overview
-title: Project Log
+title: 项目日志
 created: 2026-04-03
-updated: 2026-05-30
+updated: 2026-04-04
 tags: [log]
 related: []
-sources: ["Comet ML 平台.md"]
+sources: ["2026-04-03 验收表单实现.md", "2026-04-04 矩阵工作台实现.md"]
 ---
-# Project Log
 
-## 2026-05-30 ingest | Comet ML Platform Integration
+# 项目日志
 
-- Ingested source **Comet ML 平台.md** detailing the native integration between Ultralytics YOLO and Comet ML.
-- Created entity page **[[comet-ml-platform]]** to document the MLOps tool's features and comparison with ClearML/Azure ML.
-- Created concept page **[[comet-yolo-integration]]** to capture configuration patterns, environment variables, and visual diagnostics.
-- Created concept page **[[offline-logging]]** to address the requirement for training in isolated environments (e.g., Alienware sub-server).
-- Updated **[[wiki/index]]** and **[[wiki/overview]]** to reflect the expansion of the MLOps ecosystem.
-- Noted a potential versioning discrepancy: Source references "YOLO26" while the wiki currently lists "YOLO12".
+## 2026-04-04 ingest | 矩阵工作台实现计划
 
----
-type: overview
-title: Project Log
-created: 2026-04-03
-updated: 2026-05-30
-tags: [log]
-related: []
-sources: ["2026-04-03 验收表单实现.md", "2026-04-04 矩阵工作台实现.md", "AI 健身房.md", "AI 陪伴型机器人.md", "AI 陪伴机器人需求文档_1.md", "API 密钥.md", "AWS 快速入门教程.md", "Alienware 子服务器.md", "Argoverse 数据集.md", "Axelera 平台.md", "Azure ML 快速入门教程.md", "BIM 算量系统.md", "BOT 排序跟踪.md", "CIFAR-10 数据集.md", "基础跟踪.md", "增强.md", "COCO 数据集.md", "COCO12 格式.md", "COCO128 分割.md", "COCO128 数据集.md", "COCO8 多光谱.md", "COCO8 姿态.md", "COCO8 灰度.md", "CPU-GPU-NPU 性能对比.md", "Caltech256 数据集.md", "ClearML 平台.md", "Cloudflared 隧道.md", "Codex-MCP 工具.md", "Codex 杂项任务.md", "Comet ML 平台.md", "Comet 日志集成.md"]
----
-# Project Log
+- 摄入源文件 `2026-04-04 矩阵工作台实现.md`。
+- 创建概念页 [[snake-mapping-algorithm]] 记录蛇形映射算法细节。
+- 创建概念页 [[sparse-record-pattern]] 记录“默认成功”数据模型。
+- 创建实体页 [[acceptance-workbench-ui]] 记录新的双栏界面架构。
+- 更新 [[acceptance-form-system]] 相关索引与概述，反映架构重构。
+- 标记潜在风险：旧数据兼容性问题及非 Git 环境下的版本控制风险。
 
-## 2026-05-30 ingest | Comet Log Integration
+## 2026-04-03 ingest | 验收表单实现
 
-- Ingested **Comet 日志集成.md** detailing native YOLOv5 integration with Comet ML.
-- Created **[[comet-yolo-integration]]** concept page documenting zero-code logging, granular env var configuration, and lifecycle management features.
-- Added **[[comet-artifacts]]** concept to cover dataset versioning and lineage tracking within Comet.
-- Added **[[comet-optimizer]]** concept for hyperparameter sweeping capabilities.
-- Updated **[[comet-ml-platform]]** entity context with specific implementation details (CLI flags, offline mode).
-- Emphasized **[[offline-logging]]** as a critical pattern for the [[alienware-sub-server]] workflow.
-- Updated index and overview to reflect the expanded MLOps toolkit (ClearML + Comet).
+- 初始摄入验收表单系统实现计划。
+- 建立基础实体与概念索引。

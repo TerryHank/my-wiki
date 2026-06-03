@@ -1,10 +1,340 @@
 [
   {
+    "id": "ingest-1780508791029-3ib929",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/AWS 快速入门教程.md",
+    "folderContext": "",
+    "status": "processing",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-mjfonn",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Alienware子服务器.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-swtxus",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Argoverse 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-umfsi2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Axelera 平台.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-5fofri",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Azure ML 快速入门.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-urte1g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Azure ML 快速入门教程.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-gj0u6x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/BIM算量系统.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-uljiwm",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/BOT 排序跟踪.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-uotqnr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/CIFAR-10 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-d2c86g",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/CIFAR-100 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-zikq11",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-0buy1x",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO 数据集_1.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-5m6139",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO 数据集_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ilm39o",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO12 格式.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-b34em2",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO128 分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-s2xyj0",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO128 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-d1ucr6",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 分割.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-90xnfa",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 多光谱.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-tsbb8r",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 姿态.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-7vimjx",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-6pm4w3",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/COCO8 灰度.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ocj6sd",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/CPU-GPU-NPU性能对比.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-qvkm6f",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Caltech101 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ruuw9c",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Caltech256 数据集.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-03cyb1",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ClearML 平台.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-10tk9h",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/ClearML 日志集成.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-gxyeas",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Cloudflared隧道.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-bsbxxh",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Codex-MCP工具.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-nb9046",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Codex兼容层.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-1zwwrb",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Codex杂项任务.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-rxjdy6",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Codex网络调试经验.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-gugwug",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Comet ML 平台.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791029-ieb9dr",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/Comet 日志集成.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791029,
+    "error": null,
+    "retryCount": 0
+  },
+  {
     "id": "ingest-1780508791029-ni67jp",
     "projectId": "92391543-9809-484a-9733-24eaa23d6939",
     "sourcePath": "raw/sources/Conda 快速入门.md",
     "folderContext": "",
-    "status": "processing",
+    "status": "pending",
     "addedAt": 1780508791029,
     "error": null,
     "retryCount": 0
@@ -2923,6 +3253,26 @@
     "id": "ingest-1780508791058-4tfyap",
     "projectId": "92391543-9809-484a-9733-24eaa23d6939",
     "sourcePath": "raw/sources/基础_2.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-0548xz",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/基础跟踪.md",
+    "folderContext": "",
+    "status": "pending",
+    "addedAt": 1780508791058,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1780508791058-is0e0o",
+    "projectId": "92391543-9809-484a-9733-24eaa23d6939",
+    "sourcePath": "raw/sources/增强.md",
     "folderContext": "",
     "status": "pending",
     "addedAt": 1780508791058,
